@@ -8,4 +8,4 @@ WARNING: Old releases will be DELETED permanently!! This means, for instance, fr
 - [ ] Add Knockout.tf custom weapons to the "Classic" game selection
 
 ## More
-[Gitlab link](https://gitlab.com/tf2-based/team-fortress-2-loadout-maker-5000/-/tree/main) for previous versions (1.2 and below), this one is going to be the most up-to-date one now
+[Gitlab link](https://gitlab.com/tf2-based/team-fortress-2-loadout-maker-5000/-/tree/main) for previous versions (1.2 **only**), this one is going to be the most up-to-date one now
