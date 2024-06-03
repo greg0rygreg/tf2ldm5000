@@ -1,0 +1,3258 @@
+SCOUT
+Scattergun, Pistol, Bat, (not applicable)
+Scattergun, Pistol, Sandman, (not applicable)
+Scattergun, Pistol, Candy Cane, (not applicable)
+Scattergun, Pistol, Boston Basher, (not applicable)
+Scattergun, Pistol, Sun-on-a-Stick, (not applicable)
+Scattergun, Pistol, Fan O'War, (not applicable)
+Scattergun, Pistol, Atomizer, (not applicable)
+Scattergun, Pistol, Wrap Assassin, (not applicable)
+Scattergun, Bonk! Atomic Punch, Bat, (not applicable)
+Scattergun, Bonk! Atomic Punch, Sandman, (not applicable)
+Scattergun, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Scattergun, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Scattergun, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Scattergun, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Scattergun, Bonk! Atomic Punch, Atomizer, (not applicable)
+Scattergun, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Scattergun, Crit-a-Cola, Bat, (not applicable)
+Scattergun, Crit-a-Cola, Sandman, (not applicable)
+Scattergun, Crit-a-Cola, Candy Cane, (not applicable)
+Scattergun, Crit-a-Cola, Boston Basher, (not applicable)
+Scattergun, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Scattergun, Crit-a-Cola, Fan O'War, (not applicable)
+Scattergun, Crit-a-Cola, Atomizer, (not applicable)
+Scattergun, Crit-a-Cola, Wrap Assassin, (not applicable)
+Scattergun, Mad Milk, Bat, (not applicable)
+Scattergun, Mad Milk, Sandman, (not applicable)
+Scattergun, Mad Milk, Candy Cane, (not applicable)
+Scattergun, Mad Milk, Boston Basher, (not applicable)
+Scattergun, Mad Milk, Sun-on-a-Stick, (not applicable)
+Scattergun, Mad Milk, Fan O'War, (not applicable)
+Scattergun, Mad Milk, Atomizer, (not applicable)
+Scattergun, Mad Milk, Wrap Assassin, (not applicable)
+Scattergun, Winger, Bat, (not applicable)
+Scattergun, Winger, Sandman, (not applicable)
+Scattergun, Winger, Candy Cane, (not applicable)
+Scattergun, Winger, Boston Basher, (not applicable)
+Scattergun, Winger, Sun-on-a-Stick, (not applicable)
+Scattergun, Winger, Fan O'War, (not applicable)
+Scattergun, Winger, Atomizer, (not applicable)
+Scattergun, Winger, Wrap Assassin, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Scattergun, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Scattergun, Flying Guillotine, Bat, (not applicable)
+Scattergun, Flying Guillotine, Sandman, (not applicable)
+Scattergun, Flying Guillotine, Candy Cane, (not applicable)
+Scattergun, Flying Guillotine, Boston Basher, (not applicable)
+Scattergun, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Scattergun, Flying Guillotine, Fan O'War, (not applicable)
+Scattergun, Flying Guillotine, Atomizer, (not applicable)
+Scattergun, Flying Guillotine, Wrap Assassin, (not applicable)
+Force-a-Nature, Pistol, Bat, (not applicable)
+Force-a-Nature, Pistol, Sandman, (not applicable)
+Force-a-Nature, Pistol, Candy Cane, (not applicable)
+Force-a-Nature, Pistol, Boston Basher, (not applicable)
+Force-a-Nature, Pistol, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Pistol, Fan O'War, (not applicable)
+Force-a-Nature, Pistol, Atomizer, (not applicable)
+Force-a-Nature, Pistol, Wrap Assassin, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Bat, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Sandman, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Atomizer, (not applicable)
+Force-a-Nature, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Force-a-Nature, Crit-a-Cola, Bat, (not applicable)
+Force-a-Nature, Crit-a-Cola, Sandman, (not applicable)
+Force-a-Nature, Crit-a-Cola, Candy Cane, (not applicable)
+Force-a-Nature, Crit-a-Cola, Boston Basher, (not applicable)
+Force-a-Nature, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Crit-a-Cola, Fan O'War, (not applicable)
+Force-a-Nature, Crit-a-Cola, Atomizer, (not applicable)
+Force-a-Nature, Crit-a-Cola, Wrap Assassin, (not applicable)
+Force-a-Nature, Mad Milk, Bat, (not applicable)
+Force-a-Nature, Mad Milk, Sandman, (not applicable)
+Force-a-Nature, Mad Milk, Candy Cane, (not applicable)
+Force-a-Nature, Mad Milk, Boston Basher, (not applicable)
+Force-a-Nature, Mad Milk, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Mad Milk, Fan O'War, (not applicable)
+Force-a-Nature, Mad Milk, Atomizer, (not applicable)
+Force-a-Nature, Mad Milk, Wrap Assassin, (not applicable)
+Force-a-Nature, Winger, Bat, (not applicable)
+Force-a-Nature, Winger, Sandman, (not applicable)
+Force-a-Nature, Winger, Candy Cane, (not applicable)
+Force-a-Nature, Winger, Boston Basher, (not applicable)
+Force-a-Nature, Winger, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Winger, Fan O'War, (not applicable)
+Force-a-Nature, Winger, Atomizer, (not applicable)
+Force-a-Nature, Winger, Wrap Assassin, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Force-a-Nature, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Force-a-Nature, Flying Guillotine, Bat, (not applicable)
+Force-a-Nature, Flying Guillotine, Sandman, (not applicable)
+Force-a-Nature, Flying Guillotine, Candy Cane, (not applicable)
+Force-a-Nature, Flying Guillotine, Boston Basher, (not applicable)
+Force-a-Nature, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Force-a-Nature, Flying Guillotine, Fan O'War, (not applicable)
+Force-a-Nature, Flying Guillotine, Atomizer, (not applicable)
+Force-a-Nature, Flying Guillotine, Wrap Assassin, (not applicable)
+Shortstop, Pistol, Bat, (not applicable)
+Shortstop, Pistol, Sandman, (not applicable)
+Shortstop, Pistol, Candy Cane, (not applicable)
+Shortstop, Pistol, Boston Basher, (not applicable)
+Shortstop, Pistol, Sun-on-a-Stick, (not applicable)
+Shortstop, Pistol, Fan O'War, (not applicable)
+Shortstop, Pistol, Atomizer, (not applicable)
+Shortstop, Pistol, Wrap Assassin, (not applicable)
+Shortstop, Bonk! Atomic Punch, Bat, (not applicable)
+Shortstop, Bonk! Atomic Punch, Sandman, (not applicable)
+Shortstop, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Shortstop, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Shortstop, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Shortstop, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Shortstop, Bonk! Atomic Punch, Atomizer, (not applicable)
+Shortstop, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Shortstop, Crit-a-Cola, Bat, (not applicable)
+Shortstop, Crit-a-Cola, Sandman, (not applicable)
+Shortstop, Crit-a-Cola, Candy Cane, (not applicable)
+Shortstop, Crit-a-Cola, Boston Basher, (not applicable)
+Shortstop, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Shortstop, Crit-a-Cola, Fan O'War, (not applicable)
+Shortstop, Crit-a-Cola, Atomizer, (not applicable)
+Shortstop, Crit-a-Cola, Wrap Assassin, (not applicable)
+Shortstop, Mad Milk, Bat, (not applicable)
+Shortstop, Mad Milk, Sandman, (not applicable)
+Shortstop, Mad Milk, Candy Cane, (not applicable)
+Shortstop, Mad Milk, Boston Basher, (not applicable)
+Shortstop, Mad Milk, Sun-on-a-Stick, (not applicable)
+Shortstop, Mad Milk, Fan O'War, (not applicable)
+Shortstop, Mad Milk, Atomizer, (not applicable)
+Shortstop, Mad Milk, Wrap Assassin, (not applicable)
+Shortstop, Winger, Bat, (not applicable)
+Shortstop, Winger, Sandman, (not applicable)
+Shortstop, Winger, Candy Cane, (not applicable)
+Shortstop, Winger, Boston Basher, (not applicable)
+Shortstop, Winger, Sun-on-a-Stick, (not applicable)
+Shortstop, Winger, Fan O'War, (not applicable)
+Shortstop, Winger, Atomizer, (not applicable)
+Shortstop, Winger, Wrap Assassin, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Shortstop, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Shortstop, Flying Guillotine, Bat, (not applicable)
+Shortstop, Flying Guillotine, Sandman, (not applicable)
+Shortstop, Flying Guillotine, Candy Cane, (not applicable)
+Shortstop, Flying Guillotine, Boston Basher, (not applicable)
+Shortstop, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Shortstop, Flying Guillotine, Fan O'War, (not applicable)
+Shortstop, Flying Guillotine, Atomizer, (not applicable)
+Shortstop, Flying Guillotine, Wrap Assassin, (not applicable)
+Soda Popper, Pistol, Bat, (not applicable)
+Soda Popper, Pistol, Sandman, (not applicable)
+Soda Popper, Pistol, Candy Cane, (not applicable)
+Soda Popper, Pistol, Boston Basher, (not applicable)
+Soda Popper, Pistol, Sun-on-a-Stick, (not applicable)
+Soda Popper, Pistol, Fan O'War, (not applicable)
+Soda Popper, Pistol, Atomizer, (not applicable)
+Soda Popper, Pistol, Wrap Assassin, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Bat, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Sandman, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Atomizer, (not applicable)
+Soda Popper, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Soda Popper, Crit-a-Cola, Bat, (not applicable)
+Soda Popper, Crit-a-Cola, Sandman, (not applicable)
+Soda Popper, Crit-a-Cola, Candy Cane, (not applicable)
+Soda Popper, Crit-a-Cola, Boston Basher, (not applicable)
+Soda Popper, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Soda Popper, Crit-a-Cola, Fan O'War, (not applicable)
+Soda Popper, Crit-a-Cola, Atomizer, (not applicable)
+Soda Popper, Crit-a-Cola, Wrap Assassin, (not applicable)
+Soda Popper, Mad Milk, Bat, (not applicable)
+Soda Popper, Mad Milk, Sandman, (not applicable)
+Soda Popper, Mad Milk, Candy Cane, (not applicable)
+Soda Popper, Mad Milk, Boston Basher, (not applicable)
+Soda Popper, Mad Milk, Sun-on-a-Stick, (not applicable)
+Soda Popper, Mad Milk, Fan O'War, (not applicable)
+Soda Popper, Mad Milk, Atomizer, (not applicable)
+Soda Popper, Mad Milk, Wrap Assassin, (not applicable)
+Soda Popper, Winger, Bat, (not applicable)
+Soda Popper, Winger, Sandman, (not applicable)
+Soda Popper, Winger, Candy Cane, (not applicable)
+Soda Popper, Winger, Boston Basher, (not applicable)
+Soda Popper, Winger, Sun-on-a-Stick, (not applicable)
+Soda Popper, Winger, Fan O'War, (not applicable)
+Soda Popper, Winger, Atomizer, (not applicable)
+Soda Popper, Winger, Wrap Assassin, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Soda Popper, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Soda Popper, Flying Guillotine, Bat, (not applicable)
+Soda Popper, Flying Guillotine, Sandman, (not applicable)
+Soda Popper, Flying Guillotine, Candy Cane, (not applicable)
+Soda Popper, Flying Guillotine, Boston Basher, (not applicable)
+Soda Popper, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Soda Popper, Flying Guillotine, Fan O'War, (not applicable)
+Soda Popper, Flying Guillotine, Atomizer, (not applicable)
+Soda Popper, Flying Guillotine, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Pistol, Bat, (not applicable)
+Baby Face's Blaster, Pistol, Sandman, (not applicable)
+Baby Face's Blaster, Pistol, Candy Cane, (not applicable)
+Baby Face's Blaster, Pistol, Boston Basher, (not applicable)
+Baby Face's Blaster, Pistol, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Pistol, Fan O'War, (not applicable)
+Baby Face's Blaster, Pistol, Atomizer, (not applicable)
+Baby Face's Blaster, Pistol, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Bat, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Sandman, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Atomizer, (not applicable)
+Baby Face's Blaster, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Bat, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Sandman, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Candy Cane, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Boston Basher, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Fan O'War, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Atomizer, (not applicable)
+Baby Face's Blaster, Crit-a-Cola, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Mad Milk, Bat, (not applicable)
+Baby Face's Blaster, Mad Milk, Sandman, (not applicable)
+Baby Face's Blaster, Mad Milk, Candy Cane, (not applicable)
+Baby Face's Blaster, Mad Milk, Boston Basher, (not applicable)
+Baby Face's Blaster, Mad Milk, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Mad Milk, Fan O'War, (not applicable)
+Baby Face's Blaster, Mad Milk, Atomizer, (not applicable)
+Baby Face's Blaster, Mad Milk, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Winger, Bat, (not applicable)
+Baby Face's Blaster, Winger, Sandman, (not applicable)
+Baby Face's Blaster, Winger, Candy Cane, (not applicable)
+Baby Face's Blaster, Winger, Boston Basher, (not applicable)
+Baby Face's Blaster, Winger, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Winger, Fan O'War, (not applicable)
+Baby Face's Blaster, Winger, Atomizer, (not applicable)
+Baby Face's Blaster, Winger, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Baby Face's Blaster, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Bat, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Sandman, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Candy Cane, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Boston Basher, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Fan O'War, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Atomizer, (not applicable)
+Baby Face's Blaster, Flying Guillotine, Wrap Assassin, (not applicable)
+Back Scatter, Pistol, Bat, (not applicable)
+Back Scatter, Pistol, Sandman, (not applicable)
+Back Scatter, Pistol, Candy Cane, (not applicable)
+Back Scatter, Pistol, Boston Basher, (not applicable)
+Back Scatter, Pistol, Sun-on-a-Stick, (not applicable)
+Back Scatter, Pistol, Fan O'War, (not applicable)
+Back Scatter, Pistol, Atomizer, (not applicable)
+Back Scatter, Pistol, Wrap Assassin, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Bat, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Sandman, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Candy Cane, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Boston Basher, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Sun-on-a-Stick, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Fan O'War, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Atomizer, (not applicable)
+Back Scatter, Bonk! Atomic Punch, Wrap Assassin, (not applicable)
+Back Scatter, Crit-a-Cola, Bat, (not applicable)
+Back Scatter, Crit-a-Cola, Sandman, (not applicable)
+Back Scatter, Crit-a-Cola, Candy Cane, (not applicable)
+Back Scatter, Crit-a-Cola, Boston Basher, (not applicable)
+Back Scatter, Crit-a-Cola, Sun-on-a-Stick, (not applicable)
+Back Scatter, Crit-a-Cola, Fan O'War, (not applicable)
+Back Scatter, Crit-a-Cola, Atomizer, (not applicable)
+Back Scatter, Crit-a-Cola, Wrap Assassin, (not applicable)
+Back Scatter, Mad Milk, Bat, (not applicable)
+Back Scatter, Mad Milk, Sandman, (not applicable)
+Back Scatter, Mad Milk, Candy Cane, (not applicable)
+Back Scatter, Mad Milk, Boston Basher, (not applicable)
+Back Scatter, Mad Milk, Sun-on-a-Stick, (not applicable)
+Back Scatter, Mad Milk, Fan O'War, (not applicable)
+Back Scatter, Mad Milk, Atomizer, (not applicable)
+Back Scatter, Mad Milk, Wrap Assassin, (not applicable)
+Back Scatter, Winger, Bat, (not applicable)
+Back Scatter, Winger, Sandman, (not applicable)
+Back Scatter, Winger, Candy Cane, (not applicable)
+Back Scatter, Winger, Boston Basher, (not applicable)
+Back Scatter, Winger, Sun-on-a-Stick, (not applicable)
+Back Scatter, Winger, Fan O'War, (not applicable)
+Back Scatter, Winger, Atomizer, (not applicable)
+Back Scatter, Winger, Wrap Assassin, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Bat, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Sandman, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Candy Cane, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Boston Basher, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Sun-on-a-Stick, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Fan O'War, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Atomizer, (not applicable)
+Back Scatter, Pretty Boy's Pocket Pistol, Wrap Assassin, (not applicable)
+Back Scatter, Flying Guillotine, Bat, (not applicable)
+Back Scatter, Flying Guillotine, Sandman, (not applicable)
+Back Scatter, Flying Guillotine, Candy Cane, (not applicable)
+Back Scatter, Flying Guillotine, Boston Basher, (not applicable)
+Back Scatter, Flying Guillotine, Sun-on-a-Stick, (not applicable)
+Back Scatter, Flying Guillotine, Fan O'War, (not applicable)
+Back Scatter, Flying Guillotine, Atomizer, (not applicable)
+Back Scatter, Flying Guillotine, Wrap Assassin, (not applicable)
+
+SOLDIER
+Black Box, Shotgun, Shovel, (not applicable)
+Black Box, Shotgun, Equalizer, (not applicable)
+Black Box, Shotgun, Pain Train, (not applicable)
+Black Box, Shotgun, Half-Zatoichi, (not applicable)
+Black Box, Shotgun, Disciplinary Action, (not applicable)
+Black Box, Shotgun, Market Gardener, (not applicable)
+Black Box, Shotgun, Escape Plan, (not applicable)
+Black Box, Buff Banner, Shovel, (not applicable)
+Black Box, Buff Banner, Equalizer, (not applicable)
+Black Box, Buff Banner, Pain Train, (not applicable)
+Black Box, Buff Banner, Half-Zatoichi, (not applicable)
+Black Box, Buff Banner, Disciplinary Action, (not applicable)
+Black Box, Buff Banner, Market Gardener, (not applicable)
+Black Box, Buff Banner, Escape Plan, (not applicable)
+Black Box, Gunboats, Shovel, (not applicable)
+Black Box, Gunboats, Equalizer, (not applicable)
+Black Box, Gunboats, Pain Train, (not applicable)
+Black Box, Gunboats, Half-Zatoichi, (not applicable)
+Black Box, Gunboats, Disciplinary Action, (not applicable)
+Black Box, Gunboats, Market Gardener, (not applicable)
+Black Box, Gunboats, Escape Plan, (not applicable)
+Black Box, Battalion's Backup, Shovel, (not applicable)
+Black Box, Battalion's Backup, Equalizer, (not applicable)
+Black Box, Battalion's Backup, Pain Train, (not applicable)
+Black Box, Battalion's Backup, Half-Zatoichi, (not applicable)
+Black Box, Battalion's Backup, Disciplinary Action, (not applicable)
+Black Box, Battalion's Backup, Market Gardener, (not applicable)
+Black Box, Battalion's Backup, Escape Plan, (not applicable)
+Black Box, Concheror, Shovel, (not applicable)
+Black Box, Concheror, Equalizer, (not applicable)
+Black Box, Concheror, Pain Train, (not applicable)
+Black Box, Concheror, Half-Zatoichi, (not applicable)
+Black Box, Concheror, Disciplinary Action, (not applicable)
+Black Box, Concheror, Market Gardener, (not applicable)
+Black Box, Concheror, Escape Plan, (not applicable)
+Black Box, Mantreads, Shovel, (not applicable)
+Black Box, Mantreads, Equalizer, (not applicable)
+Black Box, Mantreads, Pain Train, (not applicable)
+Black Box, Mantreads, Half-Zatoichi, (not applicable)
+Black Box, Mantreads, Disciplinary Action, (not applicable)
+Black Box, Mantreads, Market Gardener, (not applicable)
+Black Box, Mantreads, Escape Plan, (not applicable)
+Black Box, Reserve Shooter, Shovel, (not applicable)
+Black Box, Reserve Shooter, Equalizer, (not applicable)
+Black Box, Reserve Shooter, Pain Train, (not applicable)
+Black Box, Reserve Shooter, Half-Zatoichi, (not applicable)
+Black Box, Reserve Shooter, Disciplinary Action, (not applicable)
+Black Box, Reserve Shooter, Market Gardener, (not applicable)
+Black Box, Reserve Shooter, Escape Plan, (not applicable)
+Black Box, Righteous Bison, Shovel, (not applicable)
+Black Box, Righteous Bison, Equalizer, (not applicable)
+Black Box, Righteous Bison, Pain Train, (not applicable)
+Black Box, Righteous Bison, Half-Zatoichi, (not applicable)
+Black Box, Righteous Bison, Disciplinary Action, (not applicable)
+Black Box, Righteous Bison, Market Gardener, (not applicable)
+Black Box, Righteous Bison, Escape Plan, (not applicable)
+Black Box, B.A.S.E. Jumper, Shovel, (not applicable)
+Black Box, B.A.S.E. Jumper, Equalizer, (not applicable)
+Black Box, B.A.S.E. Jumper, Pain Train, (not applicable)
+Black Box, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Black Box, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Black Box, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Black Box, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Black Box, Panic Attack, Shovel, (not applicable)
+Black Box, Panic Attack, Equalizer, (not applicable)
+Black Box, Panic Attack, Pain Train, (not applicable)
+Black Box, Panic Attack, Half-Zatoichi, (not applicable)
+Black Box, Panic Attack, Disciplinary Action, (not applicable)
+Black Box, Panic Attack, Market Gardener, (not applicable)
+Black Box, Panic Attack, Escape Plan, (not applicable)
+Rocket Launcher, Shotgun, Shovel, (not applicable)
+Rocket Launcher, Shotgun, Equalizer, (not applicable)
+Rocket Launcher, Shotgun, Pain Train, (not applicable)
+Rocket Launcher, Shotgun, Half-Zatoichi, (not applicable)
+Rocket Launcher, Shotgun, Disciplinary Action, (not applicable)
+Rocket Launcher, Shotgun, Market Gardener, (not applicable)
+Rocket Launcher, Shotgun, Escape Plan, (not applicable)
+Rocket Launcher, Buff Banner, Shovel, (not applicable)
+Rocket Launcher, Buff Banner, Equalizer, (not applicable)
+Rocket Launcher, Buff Banner, Pain Train, (not applicable)
+Rocket Launcher, Buff Banner, Half-Zatoichi, (not applicable)
+Rocket Launcher, Buff Banner, Disciplinary Action, (not applicable)
+Rocket Launcher, Buff Banner, Market Gardener, (not applicable)
+Rocket Launcher, Buff Banner, Escape Plan, (not applicable)
+Rocket Launcher, Gunboats, Shovel, (not applicable)
+Rocket Launcher, Gunboats, Equalizer, (not applicable)
+Rocket Launcher, Gunboats, Pain Train, (not applicable)
+Rocket Launcher, Gunboats, Half-Zatoichi, (not applicable)
+Rocket Launcher, Gunboats, Disciplinary Action, (not applicable)
+Rocket Launcher, Gunboats, Market Gardener, (not applicable)
+Rocket Launcher, Gunboats, Escape Plan, (not applicable)
+Rocket Launcher, Battalion's Backup, Shovel, (not applicable)
+Rocket Launcher, Battalion's Backup, Equalizer, (not applicable)
+Rocket Launcher, Battalion's Backup, Pain Train, (not applicable)
+Rocket Launcher, Battalion's Backup, Half-Zatoichi, (not applicable)
+Rocket Launcher, Battalion's Backup, Disciplinary Action, (not applicable)
+Rocket Launcher, Battalion's Backup, Market Gardener, (not applicable)
+Rocket Launcher, Battalion's Backup, Escape Plan, (not applicable)
+Rocket Launcher, Concheror, Shovel, (not applicable)
+Rocket Launcher, Concheror, Equalizer, (not applicable)
+Rocket Launcher, Concheror, Pain Train, (not applicable)
+Rocket Launcher, Concheror, Half-Zatoichi, (not applicable)
+Rocket Launcher, Concheror, Disciplinary Action, (not applicable)
+Rocket Launcher, Concheror, Market Gardener, (not applicable)
+Rocket Launcher, Concheror, Escape Plan, (not applicable)
+Rocket Launcher, Mantreads, Shovel, (not applicable)
+Rocket Launcher, Mantreads, Equalizer, (not applicable)
+Rocket Launcher, Mantreads, Pain Train, (not applicable)
+Rocket Launcher, Mantreads, Half-Zatoichi, (not applicable)
+Rocket Launcher, Mantreads, Disciplinary Action, (not applicable)
+Rocket Launcher, Mantreads, Market Gardener, (not applicable)
+Rocket Launcher, Mantreads, Escape Plan, (not applicable)
+Rocket Launcher, Reserve Shooter, Shovel, (not applicable)
+Rocket Launcher, Reserve Shooter, Equalizer, (not applicable)
+Rocket Launcher, Reserve Shooter, Pain Train, (not applicable)
+Rocket Launcher, Reserve Shooter, Half-Zatoichi, (not applicable)
+Rocket Launcher, Reserve Shooter, Disciplinary Action, (not applicable)
+Rocket Launcher, Reserve Shooter, Market Gardener, (not applicable)
+Rocket Launcher, Reserve Shooter, Escape Plan, (not applicable)
+Rocket Launcher, Righteous Bison, Shovel, (not applicable)
+Rocket Launcher, Righteous Bison, Equalizer, (not applicable)
+Rocket Launcher, Righteous Bison, Pain Train, (not applicable)
+Rocket Launcher, Righteous Bison, Half-Zatoichi, (not applicable)
+Rocket Launcher, Righteous Bison, Disciplinary Action, (not applicable)
+Rocket Launcher, Righteous Bison, Market Gardener, (not applicable)
+Rocket Launcher, Righteous Bison, Escape Plan, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Shovel, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Equalizer, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Pain Train, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Rocket Launcher, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Rocket Launcher, Panic Attack, Shovel, (not applicable)
+Rocket Launcher, Panic Attack, Equalizer, (not applicable)
+Rocket Launcher, Panic Attack, Pain Train, (not applicable)
+Rocket Launcher, Panic Attack, Half-Zatoichi, (not applicable)
+Rocket Launcher, Panic Attack, Disciplinary Action, (not applicable)
+Rocket Launcher, Panic Attack, Market Gardener, (not applicable)
+Rocket Launcher, Panic Attack, Escape Plan, (not applicable)
+Cow Mangler 5000, Shotgun, Shovel, (not applicable)
+Cow Mangler 5000, Shotgun, Equalizer, (not applicable)
+Cow Mangler 5000, Shotgun, Pain Train, (not applicable)
+Cow Mangler 5000, Shotgun, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Shotgun, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Shotgun, Market Gardener, (not applicable)
+Cow Mangler 5000, Shotgun, Escape Plan, (not applicable)
+Cow Mangler 5000, Buff Banner, Shovel, (not applicable)
+Cow Mangler 5000, Buff Banner, Equalizer, (not applicable)
+Cow Mangler 5000, Buff Banner, Pain Train, (not applicable)
+Cow Mangler 5000, Buff Banner, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Buff Banner, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Buff Banner, Market Gardener, (not applicable)
+Cow Mangler 5000, Buff Banner, Escape Plan, (not applicable)
+Cow Mangler 5000, Gunboats, Shovel, (not applicable)
+Cow Mangler 5000, Gunboats, Equalizer, (not applicable)
+Cow Mangler 5000, Gunboats, Pain Train, (not applicable)
+Cow Mangler 5000, Gunboats, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Gunboats, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Gunboats, Market Gardener, (not applicable)
+Cow Mangler 5000, Gunboats, Escape Plan, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Shovel, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Equalizer, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Pain Train, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Market Gardener, (not applicable)
+Cow Mangler 5000, Battalion's Backup, Escape Plan, (not applicable)
+Cow Mangler 5000, Concheror, Shovel, (not applicable)
+Cow Mangler 5000, Concheror, Equalizer, (not applicable)
+Cow Mangler 5000, Concheror, Pain Train, (not applicable)
+Cow Mangler 5000, Concheror, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Concheror, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Concheror, Market Gardener, (not applicable)
+Cow Mangler 5000, Concheror, Escape Plan, (not applicable)
+Cow Mangler 5000, Mantreads, Shovel, (not applicable)
+Cow Mangler 5000, Mantreads, Equalizer, (not applicable)
+Cow Mangler 5000, Mantreads, Pain Train, (not applicable)
+Cow Mangler 5000, Mantreads, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Mantreads, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Mantreads, Market Gardener, (not applicable)
+Cow Mangler 5000, Mantreads, Escape Plan, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Shovel, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Equalizer, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Pain Train, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Market Gardener, (not applicable)
+Cow Mangler 5000, Reserve Shooter, Escape Plan, (not applicable)
+Cow Mangler 5000, Righteous Bison, Shovel, (not applicable)
+Cow Mangler 5000, Righteous Bison, Equalizer, (not applicable)
+Cow Mangler 5000, Righteous Bison, Pain Train, (not applicable)
+Cow Mangler 5000, Righteous Bison, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Righteous Bison, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Righteous Bison, Market Gardener, (not applicable)
+Cow Mangler 5000, Righteous Bison, Escape Plan, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Shovel, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Equalizer, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Pain Train, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Cow Mangler 5000, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Cow Mangler 5000, Panic Attack, Shovel, (not applicable)
+Cow Mangler 5000, Panic Attack, Equalizer, (not applicable)
+Cow Mangler 5000, Panic Attack, Pain Train, (not applicable)
+Cow Mangler 5000, Panic Attack, Half-Zatoichi, (not applicable)
+Cow Mangler 5000, Panic Attack, Disciplinary Action, (not applicable)
+Cow Mangler 5000, Panic Attack, Market Gardener, (not applicable)
+Cow Mangler 5000, Panic Attack, Escape Plan, (not applicable)
+Liberty Launcher, Shotgun, Shovel, (not applicable)
+Liberty Launcher, Shotgun, Equalizer, (not applicable)
+Liberty Launcher, Shotgun, Pain Train, (not applicable)
+Liberty Launcher, Shotgun, Half-Zatoichi, (not applicable)
+Liberty Launcher, Shotgun, Disciplinary Action, (not applicable)
+Liberty Launcher, Shotgun, Market Gardener, (not applicable)
+Liberty Launcher, Shotgun, Escape Plan, (not applicable)
+Liberty Launcher, Buff Banner, Shovel, (not applicable)
+Liberty Launcher, Buff Banner, Equalizer, (not applicable)
+Liberty Launcher, Buff Banner, Pain Train, (not applicable)
+Liberty Launcher, Buff Banner, Half-Zatoichi, (not applicable)
+Liberty Launcher, Buff Banner, Disciplinary Action, (not applicable)
+Liberty Launcher, Buff Banner, Market Gardener, (not applicable)
+Liberty Launcher, Buff Banner, Escape Plan, (not applicable)
+Liberty Launcher, Gunboats, Shovel, (not applicable)
+Liberty Launcher, Gunboats, Equalizer, (not applicable)
+Liberty Launcher, Gunboats, Pain Train, (not applicable)
+Liberty Launcher, Gunboats, Half-Zatoichi, (not applicable)
+Liberty Launcher, Gunboats, Disciplinary Action, (not applicable)
+Liberty Launcher, Gunboats, Market Gardener, (not applicable)
+Liberty Launcher, Gunboats, Escape Plan, (not applicable)
+Liberty Launcher, Battalion's Backup, Shovel, (not applicable)
+Liberty Launcher, Battalion's Backup, Equalizer, (not applicable)
+Liberty Launcher, Battalion's Backup, Pain Train, (not applicable)
+Liberty Launcher, Battalion's Backup, Half-Zatoichi, (not applicable)
+Liberty Launcher, Battalion's Backup, Disciplinary Action, (not applicable)
+Liberty Launcher, Battalion's Backup, Market Gardener, (not applicable)
+Liberty Launcher, Battalion's Backup, Escape Plan, (not applicable)
+Liberty Launcher, Concheror, Shovel, (not applicable)
+Liberty Launcher, Concheror, Equalizer, (not applicable)
+Liberty Launcher, Concheror, Pain Train, (not applicable)
+Liberty Launcher, Concheror, Half-Zatoichi, (not applicable)
+Liberty Launcher, Concheror, Disciplinary Action, (not applicable)
+Liberty Launcher, Concheror, Market Gardener, (not applicable)
+Liberty Launcher, Concheror, Escape Plan, (not applicable)
+Liberty Launcher, Mantreads, Shovel, (not applicable)
+Liberty Launcher, Mantreads, Equalizer, (not applicable)
+Liberty Launcher, Mantreads, Pain Train, (not applicable)
+Liberty Launcher, Mantreads, Half-Zatoichi, (not applicable)
+Liberty Launcher, Mantreads, Disciplinary Action, (not applicable)
+Liberty Launcher, Mantreads, Market Gardener, (not applicable)
+Liberty Launcher, Mantreads, Escape Plan, (not applicable)
+Liberty Launcher, Reserve Shooter, Shovel, (not applicable)
+Liberty Launcher, Reserve Shooter, Equalizer, (not applicable)
+Liberty Launcher, Reserve Shooter, Pain Train, (not applicable)
+Liberty Launcher, Reserve Shooter, Half-Zatoichi, (not applicable)
+Liberty Launcher, Reserve Shooter, Disciplinary Action, (not applicable)
+Liberty Launcher, Reserve Shooter, Market Gardener, (not applicable)
+Liberty Launcher, Reserve Shooter, Escape Plan, (not applicable)
+Liberty Launcher, Righteous Bison, Shovel, (not applicable)
+Liberty Launcher, Righteous Bison, Equalizer, (not applicable)
+Liberty Launcher, Righteous Bison, Pain Train, (not applicable)
+Liberty Launcher, Righteous Bison, Half-Zatoichi, (not applicable)
+Liberty Launcher, Righteous Bison, Disciplinary Action, (not applicable)
+Liberty Launcher, Righteous Bison, Market Gardener, (not applicable)
+Liberty Launcher, Righteous Bison, Escape Plan, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Shovel, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Equalizer, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Pain Train, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Liberty Launcher, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Liberty Launcher, Panic Attack, Shovel, (not applicable)
+Liberty Launcher, Panic Attack, Equalizer, (not applicable)
+Liberty Launcher, Panic Attack, Pain Train, (not applicable)
+Liberty Launcher, Panic Attack, Half-Zatoichi, (not applicable)
+Liberty Launcher, Panic Attack, Disciplinary Action, (not applicable)
+Liberty Launcher, Panic Attack, Market Gardener, (not applicable)
+Liberty Launcher, Panic Attack, Escape Plan, (not applicable)
+Direct Hit, Shotgun, Shovel, (not applicable)
+Direct Hit, Shotgun, Equalizer, (not applicable)
+Direct Hit, Shotgun, Pain Train, (not applicable)
+Direct Hit, Shotgun, Half-Zatoichi, (not applicable)
+Direct Hit, Shotgun, Disciplinary Action, (not applicable)
+Direct Hit, Shotgun, Market Gardener, (not applicable)
+Direct Hit, Shotgun, Escape Plan, (not applicable)
+Direct Hit, Buff Banner, Shovel, (not applicable)
+Direct Hit, Buff Banner, Equalizer, (not applicable)
+Direct Hit, Buff Banner, Pain Train, (not applicable)
+Direct Hit, Buff Banner, Half-Zatoichi, (not applicable)
+Direct Hit, Buff Banner, Disciplinary Action, (not applicable)
+Direct Hit, Buff Banner, Market Gardener, (not applicable)
+Direct Hit, Buff Banner, Escape Plan, (not applicable)
+Direct Hit, Gunboats, Shovel, (not applicable)
+Direct Hit, Gunboats, Equalizer, (not applicable)
+Direct Hit, Gunboats, Pain Train, (not applicable)
+Direct Hit, Gunboats, Half-Zatoichi, (not applicable)
+Direct Hit, Gunboats, Disciplinary Action, (not applicable)
+Direct Hit, Gunboats, Market Gardener, (not applicable)
+Direct Hit, Gunboats, Escape Plan, (not applicable)
+Direct Hit, Battalion's Backup, Shovel, (not applicable)
+Direct Hit, Battalion's Backup, Equalizer, (not applicable)
+Direct Hit, Battalion's Backup, Pain Train, (not applicable)
+Direct Hit, Battalion's Backup, Half-Zatoichi, (not applicable)
+Direct Hit, Battalion's Backup, Disciplinary Action, (not applicable)
+Direct Hit, Battalion's Backup, Market Gardener, (not applicable)
+Direct Hit, Battalion's Backup, Escape Plan, (not applicable)
+Direct Hit, Concheror, Shovel, (not applicable)
+Direct Hit, Concheror, Equalizer, (not applicable)
+Direct Hit, Concheror, Pain Train, (not applicable)
+Direct Hit, Concheror, Half-Zatoichi, (not applicable)
+Direct Hit, Concheror, Disciplinary Action, (not applicable)
+Direct Hit, Concheror, Market Gardener, (not applicable)
+Direct Hit, Concheror, Escape Plan, (not applicable)
+Direct Hit, Mantreads, Shovel, (not applicable)
+Direct Hit, Mantreads, Equalizer, (not applicable)
+Direct Hit, Mantreads, Pain Train, (not applicable)
+Direct Hit, Mantreads, Half-Zatoichi, (not applicable)
+Direct Hit, Mantreads, Disciplinary Action, (not applicable)
+Direct Hit, Mantreads, Market Gardener, (not applicable)
+Direct Hit, Mantreads, Escape Plan, (not applicable)
+Direct Hit, Reserve Shooter, Shovel, (not applicable)
+Direct Hit, Reserve Shooter, Equalizer, (not applicable)
+Direct Hit, Reserve Shooter, Pain Train, (not applicable)
+Direct Hit, Reserve Shooter, Half-Zatoichi, (not applicable)
+Direct Hit, Reserve Shooter, Disciplinary Action, (not applicable)
+Direct Hit, Reserve Shooter, Market Gardener, (not applicable)
+Direct Hit, Reserve Shooter, Escape Plan, (not applicable)
+Direct Hit, Righteous Bison, Shovel, (not applicable)
+Direct Hit, Righteous Bison, Equalizer, (not applicable)
+Direct Hit, Righteous Bison, Pain Train, (not applicable)
+Direct Hit, Righteous Bison, Half-Zatoichi, (not applicable)
+Direct Hit, Righteous Bison, Disciplinary Action, (not applicable)
+Direct Hit, Righteous Bison, Market Gardener, (not applicable)
+Direct Hit, Righteous Bison, Escape Plan, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Shovel, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Equalizer, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Pain Train, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Direct Hit, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Direct Hit, Panic Attack, Shovel, (not applicable)
+Direct Hit, Panic Attack, Equalizer, (not applicable)
+Direct Hit, Panic Attack, Pain Train, (not applicable)
+Direct Hit, Panic Attack, Half-Zatoichi, (not applicable)
+Direct Hit, Panic Attack, Disciplinary Action, (not applicable)
+Direct Hit, Panic Attack, Market Gardener, (not applicable)
+Direct Hit, Panic Attack, Escape Plan, (not applicable)
+Rocket Jumper, Shotgun, Shovel, (not applicable)
+Rocket Jumper, Shotgun, Equalizer, (not applicable)
+Rocket Jumper, Shotgun, Pain Train, (not applicable)
+Rocket Jumper, Shotgun, Half-Zatoichi, (not applicable)
+Rocket Jumper, Shotgun, Disciplinary Action, (not applicable)
+Rocket Jumper, Shotgun, Market Gardener, (not applicable)
+Rocket Jumper, Shotgun, Escape Plan, (not applicable)
+Rocket Jumper, Buff Banner, Shovel, (not applicable)
+Rocket Jumper, Buff Banner, Equalizer, (not applicable)
+Rocket Jumper, Buff Banner, Pain Train, (not applicable)
+Rocket Jumper, Buff Banner, Half-Zatoichi, (not applicable)
+Rocket Jumper, Buff Banner, Disciplinary Action, (not applicable)
+Rocket Jumper, Buff Banner, Market Gardener, (not applicable)
+Rocket Jumper, Buff Banner, Escape Plan, (not applicable)
+Rocket Jumper, Gunboats, Shovel, (not applicable)
+Rocket Jumper, Gunboats, Equalizer, (not applicable)
+Rocket Jumper, Gunboats, Pain Train, (not applicable)
+Rocket Jumper, Gunboats, Half-Zatoichi, (not applicable)
+Rocket Jumper, Gunboats, Disciplinary Action, (not applicable)
+Rocket Jumper, Gunboats, Market Gardener, (not applicable)
+Rocket Jumper, Gunboats, Escape Plan, (not applicable)
+Rocket Jumper, Battalion's Backup, Shovel, (not applicable)
+Rocket Jumper, Battalion's Backup, Equalizer, (not applicable)
+Rocket Jumper, Battalion's Backup, Pain Train, (not applicable)
+Rocket Jumper, Battalion's Backup, Half-Zatoichi, (not applicable)
+Rocket Jumper, Battalion's Backup, Disciplinary Action, (not applicable)
+Rocket Jumper, Battalion's Backup, Market Gardener, (not applicable)
+Rocket Jumper, Battalion's Backup, Escape Plan, (not applicable)
+Rocket Jumper, Concheror, Shovel, (not applicable)
+Rocket Jumper, Concheror, Equalizer, (not applicable)
+Rocket Jumper, Concheror, Pain Train, (not applicable)
+Rocket Jumper, Concheror, Half-Zatoichi, (not applicable)
+Rocket Jumper, Concheror, Disciplinary Action, (not applicable)
+Rocket Jumper, Concheror, Market Gardener, (not applicable)
+Rocket Jumper, Concheror, Escape Plan, (not applicable)
+Rocket Jumper, Mantreads, Shovel, (not applicable)
+Rocket Jumper, Mantreads, Equalizer, (not applicable)
+Rocket Jumper, Mantreads, Pain Train, (not applicable)
+Rocket Jumper, Mantreads, Half-Zatoichi, (not applicable)
+Rocket Jumper, Mantreads, Disciplinary Action, (not applicable)
+Rocket Jumper, Mantreads, Market Gardener, (not applicable)
+Rocket Jumper, Mantreads, Escape Plan, (not applicable)
+Rocket Jumper, Reserve Shooter, Shovel, (not applicable)
+Rocket Jumper, Reserve Shooter, Equalizer, (not applicable)
+Rocket Jumper, Reserve Shooter, Pain Train, (not applicable)
+Rocket Jumper, Reserve Shooter, Half-Zatoichi, (not applicable)
+Rocket Jumper, Reserve Shooter, Disciplinary Action, (not applicable)
+Rocket Jumper, Reserve Shooter, Market Gardener, (not applicable)
+Rocket Jumper, Reserve Shooter, Escape Plan, (not applicable)
+Rocket Jumper, Righteous Bison, Shovel, (not applicable)
+Rocket Jumper, Righteous Bison, Equalizer, (not applicable)
+Rocket Jumper, Righteous Bison, Pain Train, (not applicable)
+Rocket Jumper, Righteous Bison, Half-Zatoichi, (not applicable)
+Rocket Jumper, Righteous Bison, Disciplinary Action, (not applicable)
+Rocket Jumper, Righteous Bison, Market Gardener, (not applicable)
+Rocket Jumper, Righteous Bison, Escape Plan, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Shovel, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Equalizer, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Pain Train, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Rocket Jumper, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Rocket Jumper, Panic Attack, Shovel, (not applicable)
+Rocket Jumper, Panic Attack, Equalizer, (not applicable)
+Rocket Jumper, Panic Attack, Pain Train, (not applicable)
+Rocket Jumper, Panic Attack, Half-Zatoichi, (not applicable)
+Rocket Jumper, Panic Attack, Disciplinary Action, (not applicable)
+Rocket Jumper, Panic Attack, Market Gardener, (not applicable)
+Rocket Jumper, Panic Attack, Escape Plan, (not applicable)
+Beggar's Bazooka, Shotgun, Shovel, (not applicable)
+Beggar's Bazooka, Shotgun, Equalizer, (not applicable)
+Beggar's Bazooka, Shotgun, Pain Train, (not applicable)
+Beggar's Bazooka, Shotgun, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Shotgun, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Shotgun, Market Gardener, (not applicable)
+Beggar's Bazooka, Shotgun, Escape Plan, (not applicable)
+Beggar's Bazooka, Buff Banner, Shovel, (not applicable)
+Beggar's Bazooka, Buff Banner, Equalizer, (not applicable)
+Beggar's Bazooka, Buff Banner, Pain Train, (not applicable)
+Beggar's Bazooka, Buff Banner, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Buff Banner, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Buff Banner, Market Gardener, (not applicable)
+Beggar's Bazooka, Buff Banner, Escape Plan, (not applicable)
+Beggar's Bazooka, Gunboats, Shovel, (not applicable)
+Beggar's Bazooka, Gunboats, Equalizer, (not applicable)
+Beggar's Bazooka, Gunboats, Pain Train, (not applicable)
+Beggar's Bazooka, Gunboats, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Gunboats, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Gunboats, Market Gardener, (not applicable)
+Beggar's Bazooka, Gunboats, Escape Plan, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Shovel, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Equalizer, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Pain Train, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Market Gardener, (not applicable)
+Beggar's Bazooka, Battalion's Backup, Escape Plan, (not applicable)
+Beggar's Bazooka, Concheror, Shovel, (not applicable)
+Beggar's Bazooka, Concheror, Equalizer, (not applicable)
+Beggar's Bazooka, Concheror, Pain Train, (not applicable)
+Beggar's Bazooka, Concheror, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Concheror, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Concheror, Market Gardener, (not applicable)
+Beggar's Bazooka, Concheror, Escape Plan, (not applicable)
+Beggar's Bazooka, Mantreads, Shovel, (not applicable)
+Beggar's Bazooka, Mantreads, Equalizer, (not applicable)
+Beggar's Bazooka, Mantreads, Pain Train, (not applicable)
+Beggar's Bazooka, Mantreads, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Mantreads, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Mantreads, Market Gardener, (not applicable)
+Beggar's Bazooka, Mantreads, Escape Plan, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Shovel, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Equalizer, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Pain Train, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Market Gardener, (not applicable)
+Beggar's Bazooka, Reserve Shooter, Escape Plan, (not applicable)
+Beggar's Bazooka, Righteous Bison, Shovel, (not applicable)
+Beggar's Bazooka, Righteous Bison, Equalizer, (not applicable)
+Beggar's Bazooka, Righteous Bison, Pain Train, (not applicable)
+Beggar's Bazooka, Righteous Bison, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Righteous Bison, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Righteous Bison, Market Gardener, (not applicable)
+Beggar's Bazooka, Righteous Bison, Escape Plan, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Shovel, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Equalizer, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Pain Train, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Beggar's Bazooka, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Beggar's Bazooka, Panic Attack, Shovel, (not applicable)
+Beggar's Bazooka, Panic Attack, Equalizer, (not applicable)
+Beggar's Bazooka, Panic Attack, Pain Train, (not applicable)
+Beggar's Bazooka, Panic Attack, Half-Zatoichi, (not applicable)
+Beggar's Bazooka, Panic Attack, Disciplinary Action, (not applicable)
+Beggar's Bazooka, Panic Attack, Market Gardener, (not applicable)
+Beggar's Bazooka, Panic Attack, Escape Plan, (not applicable)
+Air Strike, Shotgun, Shovel, (not applicable)
+Air Strike, Shotgun, Equalizer, (not applicable)
+Air Strike, Shotgun, Pain Train, (not applicable)
+Air Strike, Shotgun, Half-Zatoichi, (not applicable)
+Air Strike, Shotgun, Disciplinary Action, (not applicable)
+Air Strike, Shotgun, Market Gardener, (not applicable)
+Air Strike, Shotgun, Escape Plan, (not applicable)
+Air Strike, Buff Banner, Shovel, (not applicable)
+Air Strike, Buff Banner, Equalizer, (not applicable)
+Air Strike, Buff Banner, Pain Train, (not applicable)
+Air Strike, Buff Banner, Half-Zatoichi, (not applicable)
+Air Strike, Buff Banner, Disciplinary Action, (not applicable)
+Air Strike, Buff Banner, Market Gardener, (not applicable)
+Air Strike, Buff Banner, Escape Plan, (not applicable)
+Air Strike, Gunboats, Shovel, (not applicable)
+Air Strike, Gunboats, Equalizer, (not applicable)
+Air Strike, Gunboats, Pain Train, (not applicable)
+Air Strike, Gunboats, Half-Zatoichi, (not applicable)
+Air Strike, Gunboats, Disciplinary Action, (not applicable)
+Air Strike, Gunboats, Market Gardener, (not applicable)
+Air Strike, Gunboats, Escape Plan, (not applicable)
+Air Strike, Battalion's Backup, Shovel, (not applicable)
+Air Strike, Battalion's Backup, Equalizer, (not applicable)
+Air Strike, Battalion's Backup, Pain Train, (not applicable)
+Air Strike, Battalion's Backup, Half-Zatoichi, (not applicable)
+Air Strike, Battalion's Backup, Disciplinary Action, (not applicable)
+Air Strike, Battalion's Backup, Market Gardener, (not applicable)
+Air Strike, Battalion's Backup, Escape Plan, (not applicable)
+Air Strike, Concheror, Shovel, (not applicable)
+Air Strike, Concheror, Equalizer, (not applicable)
+Air Strike, Concheror, Pain Train, (not applicable)
+Air Strike, Concheror, Half-Zatoichi, (not applicable)
+Air Strike, Concheror, Disciplinary Action, (not applicable)
+Air Strike, Concheror, Market Gardener, (not applicable)
+Air Strike, Concheror, Escape Plan, (not applicable)
+Air Strike, Mantreads, Shovel, (not applicable)
+Air Strike, Mantreads, Equalizer, (not applicable)
+Air Strike, Mantreads, Pain Train, (not applicable)
+Air Strike, Mantreads, Half-Zatoichi, (not applicable)
+Air Strike, Mantreads, Disciplinary Action, (not applicable)
+Air Strike, Mantreads, Market Gardener, (not applicable)
+Air Strike, Mantreads, Escape Plan, (not applicable)
+Air Strike, Reserve Shooter, Shovel, (not applicable)
+Air Strike, Reserve Shooter, Equalizer, (not applicable)
+Air Strike, Reserve Shooter, Pain Train, (not applicable)
+Air Strike, Reserve Shooter, Half-Zatoichi, (not applicable)
+Air Strike, Reserve Shooter, Disciplinary Action, (not applicable)
+Air Strike, Reserve Shooter, Market Gardener, (not applicable)
+Air Strike, Reserve Shooter, Escape Plan, (not applicable)
+Air Strike, Righteous Bison, Shovel, (not applicable)
+Air Strike, Righteous Bison, Equalizer, (not applicable)
+Air Strike, Righteous Bison, Pain Train, (not applicable)
+Air Strike, Righteous Bison, Half-Zatoichi, (not applicable)
+Air Strike, Righteous Bison, Disciplinary Action, (not applicable)
+Air Strike, Righteous Bison, Market Gardener, (not applicable)
+Air Strike, Righteous Bison, Escape Plan, (not applicable)
+Air Strike, B.A.S.E. Jumper, Shovel, (not applicable)
+Air Strike, B.A.S.E. Jumper, Equalizer, (not applicable)
+Air Strike, B.A.S.E. Jumper, Pain Train, (not applicable)
+Air Strike, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Air Strike, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Air Strike, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Air Strike, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Air Strike, Panic Attack, Shovel, (not applicable)
+Air Strike, Panic Attack, Equalizer, (not applicable)
+Air Strike, Panic Attack, Pain Train, (not applicable)
+Air Strike, Panic Attack, Half-Zatoichi, (not applicable)
+Air Strike, Panic Attack, Disciplinary Action, (not applicable)
+Air Strike, Panic Attack, Market Gardener, (not applicable)
+Air Strike, Panic Attack, Escape Plan, (not applicable)
+Original, Shotgun, Shovel, (not applicable)
+Original, Shotgun, Equalizer, (not applicable)
+Original, Shotgun, Pain Train, (not applicable)
+Original, Shotgun, Half-Zatoichi, (not applicable)
+Original, Shotgun, Disciplinary Action, (not applicable)
+Original, Shotgun, Market Gardener, (not applicable)
+Original, Shotgun, Escape Plan, (not applicable)
+Original, Buff Banner, Shovel, (not applicable)
+Original, Buff Banner, Equalizer, (not applicable)
+Original, Buff Banner, Pain Train, (not applicable)
+Original, Buff Banner, Half-Zatoichi, (not applicable)
+Original, Buff Banner, Disciplinary Action, (not applicable)
+Original, Buff Banner, Market Gardener, (not applicable)
+Original, Buff Banner, Escape Plan, (not applicable)
+Original, Gunboats, Shovel, (not applicable)
+Original, Gunboats, Equalizer, (not applicable)
+Original, Gunboats, Pain Train, (not applicable)
+Original, Gunboats, Half-Zatoichi, (not applicable)
+Original, Gunboats, Disciplinary Action, (not applicable)
+Original, Gunboats, Market Gardener, (not applicable)
+Original, Gunboats, Escape Plan, (not applicable)
+Original, Battalion's Backup, Shovel, (not applicable)
+Original, Battalion's Backup, Equalizer, (not applicable)
+Original, Battalion's Backup, Pain Train, (not applicable)
+Original, Battalion's Backup, Half-Zatoichi, (not applicable)
+Original, Battalion's Backup, Disciplinary Action, (not applicable)
+Original, Battalion's Backup, Market Gardener, (not applicable)
+Original, Battalion's Backup, Escape Plan, (not applicable)
+Original, Concheror, Shovel, (not applicable)
+Original, Concheror, Equalizer, (not applicable)
+Original, Concheror, Pain Train, (not applicable)
+Original, Concheror, Half-Zatoichi, (not applicable)
+Original, Concheror, Disciplinary Action, (not applicable)
+Original, Concheror, Market Gardener, (not applicable)
+Original, Concheror, Escape Plan, (not applicable)
+Original, Mantreads, Shovel, (not applicable)
+Original, Mantreads, Equalizer, (not applicable)
+Original, Mantreads, Pain Train, (not applicable)
+Original, Mantreads, Half-Zatoichi, (not applicable)
+Original, Mantreads, Disciplinary Action, (not applicable)
+Original, Mantreads, Market Gardener, (not applicable)
+Original, Mantreads, Escape Plan, (not applicable)
+Original, Reserve Shooter, Shovel, (not applicable)
+Original, Reserve Shooter, Equalizer, (not applicable)
+Original, Reserve Shooter, Pain Train, (not applicable)
+Original, Reserve Shooter, Half-Zatoichi, (not applicable)
+Original, Reserve Shooter, Disciplinary Action, (not applicable)
+Original, Reserve Shooter, Market Gardener, (not applicable)
+Original, Reserve Shooter, Escape Plan, (not applicable)
+Original, Righteous Bison, Shovel, (not applicable)
+Original, Righteous Bison, Equalizer, (not applicable)
+Original, Righteous Bison, Pain Train, (not applicable)
+Original, Righteous Bison, Half-Zatoichi, (not applicable)
+Original, Righteous Bison, Disciplinary Action, (not applicable)
+Original, Righteous Bison, Market Gardener, (not applicable)
+Original, Righteous Bison, Escape Plan, (not applicable)
+Original, B.A.S.E. Jumper, Shovel, (not applicable)
+Original, B.A.S.E. Jumper, Equalizer, (not applicable)
+Original, B.A.S.E. Jumper, Pain Train, (not applicable)
+Original, B.A.S.E. Jumper, Half-Zatoichi, (not applicable)
+Original, B.A.S.E. Jumper, Disciplinary Action, (not applicable)
+Original, B.A.S.E. Jumper, Market Gardener, (not applicable)
+Original, B.A.S.E. Jumper, Escape Plan, (not applicable)
+Original, Panic Attack, Shovel, (not applicable)
+Original, Panic Attack, Equalizer, (not applicable)
+Original, Panic Attack, Pain Train, (not applicable)
+Original, Panic Attack, Half-Zatoichi, (not applicable)
+Original, Panic Attack, Disciplinary Action, (not applicable)
+Original, Panic Attack, Market Gardener, (not applicable)
+Original, Panic Attack, Escape Plan, (not applicable)
+
+PYRO
+Flame Thrower, Shotgun, Fire Axe, (not applicable)
+Flame Thrower, Shotgun, Axtinguisher, (not applicable)
+Flame Thrower, Shotgun, Homewrecker, (not applicable)
+Flame Thrower, Shotgun, Powerjack, (not applicable)
+Flame Thrower, Shotgun, Back Scratcher, (not applicable)
+Flame Thrower, Shotgun, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Shotgun, Third Degree, (not applicable)
+Flame Thrower, Shotgun, Neon Annihilator, (not applicable)
+Flame Thrower, Shotgun, Hot Hand, (not applicable)
+Flame Thrower, Panic Attack, Fire Axe, (not applicable)
+Flame Thrower, Panic Attack, Axtinguisher, (not applicable)
+Flame Thrower, Panic Attack, Homewrecker, (not applicable)
+Flame Thrower, Panic Attack, Powerjack, (not applicable)
+Flame Thrower, Panic Attack, Back Scratcher, (not applicable)
+Flame Thrower, Panic Attack, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Panic Attack, Third Degree, (not applicable)
+Flame Thrower, Panic Attack, Neon Annihilator, (not applicable)
+Flame Thrower, Panic Attack, Hot Hand, (not applicable)
+Flame Thrower, Reserve Shooter, Fire Axe, (not applicable)
+Flame Thrower, Reserve Shooter, Axtinguisher, (not applicable)
+Flame Thrower, Reserve Shooter, Homewrecker, (not applicable)
+Flame Thrower, Reserve Shooter, Powerjack, (not applicable)
+Flame Thrower, Reserve Shooter, Back Scratcher, (not applicable)
+Flame Thrower, Reserve Shooter, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Reserve Shooter, Third Degree, (not applicable)
+Flame Thrower, Reserve Shooter, Neon Annihilator, (not applicable)
+Flame Thrower, Reserve Shooter, Hot Hand, (not applicable)
+Flame Thrower, Thermal Thruster, Fire Axe, (not applicable)
+Flame Thrower, Thermal Thruster, Axtinguisher, (not applicable)
+Flame Thrower, Thermal Thruster, Homewrecker, (not applicable)
+Flame Thrower, Thermal Thruster, Powerjack, (not applicable)
+Flame Thrower, Thermal Thruster, Back Scratcher, (not applicable)
+Flame Thrower, Thermal Thruster, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Thermal Thruster, Third Degree, (not applicable)
+Flame Thrower, Thermal Thruster, Neon Annihilator, (not applicable)
+Flame Thrower, Thermal Thruster, Hot Hand, (not applicable)
+Flame Thrower, Flare Gun, Fire Axe, (not applicable)
+Flame Thrower, Flare Gun, Axtinguisher, (not applicable)
+Flame Thrower, Flare Gun, Homewrecker, (not applicable)
+Flame Thrower, Flare Gun, Powerjack, (not applicable)
+Flame Thrower, Flare Gun, Back Scratcher, (not applicable)
+Flame Thrower, Flare Gun, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Flare Gun, Third Degree, (not applicable)
+Flame Thrower, Flare Gun, Neon Annihilator, (not applicable)
+Flame Thrower, Flare Gun, Hot Hand, (not applicable)
+Flame Thrower, Detonator, Fire Axe, (not applicable)
+Flame Thrower, Detonator, Axtinguisher, (not applicable)
+Flame Thrower, Detonator, Homewrecker, (not applicable)
+Flame Thrower, Detonator, Powerjack, (not applicable)
+Flame Thrower, Detonator, Back Scratcher, (not applicable)
+Flame Thrower, Detonator, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Detonator, Third Degree, (not applicable)
+Flame Thrower, Detonator, Neon Annihilator, (not applicable)
+Flame Thrower, Detonator, Hot Hand, (not applicable)
+Flame Thrower, Scorch Shot, Fire Axe, (not applicable)
+Flame Thrower, Scorch Shot, Axtinguisher, (not applicable)
+Flame Thrower, Scorch Shot, Homewrecker, (not applicable)
+Flame Thrower, Scorch Shot, Powerjack, (not applicable)
+Flame Thrower, Scorch Shot, Back Scratcher, (not applicable)
+Flame Thrower, Scorch Shot, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Scorch Shot, Third Degree, (not applicable)
+Flame Thrower, Scorch Shot, Neon Annihilator, (not applicable)
+Flame Thrower, Scorch Shot, Hot Hand, (not applicable)
+Flame Thrower, Manmelter, Fire Axe, (not applicable)
+Flame Thrower, Manmelter, Axtinguisher, (not applicable)
+Flame Thrower, Manmelter, Homewrecker, (not applicable)
+Flame Thrower, Manmelter, Powerjack, (not applicable)
+Flame Thrower, Manmelter, Back Scratcher, (not applicable)
+Flame Thrower, Manmelter, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Manmelter, Third Degree, (not applicable)
+Flame Thrower, Manmelter, Neon Annihilator, (not applicable)
+Flame Thrower, Manmelter, Hot Hand, (not applicable)
+Flame Thrower, Gas Passer, Fire Axe, (not applicable)
+Flame Thrower, Gas Passer, Axtinguisher, (not applicable)
+Flame Thrower, Gas Passer, Homewrecker, (not applicable)
+Flame Thrower, Gas Passer, Powerjack, (not applicable)
+Flame Thrower, Gas Passer, Back Scratcher, (not applicable)
+Flame Thrower, Gas Passer, Sharpened Volcano Fragment, (not applicable)
+Flame Thrower, Gas Passer, Third Degree, (not applicable)
+Flame Thrower, Gas Passer, Neon Annihilator, (not applicable)
+Flame Thrower, Gas Passer, Hot Hand, (not applicable)
+Backburner, Shotgun, Fire Axe, (not applicable)
+Backburner, Shotgun, Axtinguisher, (not applicable)
+Backburner, Shotgun, Homewrecker, (not applicable)
+Backburner, Shotgun, Powerjack, (not applicable)
+Backburner, Shotgun, Back Scratcher, (not applicable)
+Backburner, Shotgun, Sharpened Volcano Fragment, (not applicable)
+Backburner, Shotgun, Third Degree, (not applicable)
+Backburner, Shotgun, Neon Annihilator, (not applicable)
+Backburner, Shotgun, Hot Hand, (not applicable)
+Backburner, Panic Attack, Fire Axe, (not applicable)
+Backburner, Panic Attack, Axtinguisher, (not applicable)
+Backburner, Panic Attack, Homewrecker, (not applicable)
+Backburner, Panic Attack, Powerjack, (not applicable)
+Backburner, Panic Attack, Back Scratcher, (not applicable)
+Backburner, Panic Attack, Sharpened Volcano Fragment, (not applicable)
+Backburner, Panic Attack, Third Degree, (not applicable)
+Backburner, Panic Attack, Neon Annihilator, (not applicable)
+Backburner, Panic Attack, Hot Hand, (not applicable)
+Backburner, Reserve Shooter, Fire Axe, (not applicable)
+Backburner, Reserve Shooter, Axtinguisher, (not applicable)
+Backburner, Reserve Shooter, Homewrecker, (not applicable)
+Backburner, Reserve Shooter, Powerjack, (not applicable)
+Backburner, Reserve Shooter, Back Scratcher, (not applicable)
+Backburner, Reserve Shooter, Sharpened Volcano Fragment, (not applicable)
+Backburner, Reserve Shooter, Third Degree, (not applicable)
+Backburner, Reserve Shooter, Neon Annihilator, (not applicable)
+Backburner, Reserve Shooter, Hot Hand, (not applicable)
+Backburner, Thermal Thruster, Fire Axe, (not applicable)
+Backburner, Thermal Thruster, Axtinguisher, (not applicable)
+Backburner, Thermal Thruster, Homewrecker, (not applicable)
+Backburner, Thermal Thruster, Powerjack, (not applicable)
+Backburner, Thermal Thruster, Back Scratcher, (not applicable)
+Backburner, Thermal Thruster, Sharpened Volcano Fragment, (not applicable)
+Backburner, Thermal Thruster, Third Degree, (not applicable)
+Backburner, Thermal Thruster, Neon Annihilator, (not applicable)
+Backburner, Thermal Thruster, Hot Hand, (not applicable)
+Backburner, Flare Gun, Fire Axe, (not applicable)
+Backburner, Flare Gun, Axtinguisher, (not applicable)
+Backburner, Flare Gun, Homewrecker, (not applicable)
+Backburner, Flare Gun, Powerjack, (not applicable)
+Backburner, Flare Gun, Back Scratcher, (not applicable)
+Backburner, Flare Gun, Sharpened Volcano Fragment, (not applicable)
+Backburner, Flare Gun, Third Degree, (not applicable)
+Backburner, Flare Gun, Neon Annihilator, (not applicable)
+Backburner, Flare Gun, Hot Hand, (not applicable)
+Backburner, Detonator, Fire Axe, (not applicable)
+Backburner, Detonator, Axtinguisher, (not applicable)
+Backburner, Detonator, Homewrecker, (not applicable)
+Backburner, Detonator, Powerjack, (not applicable)
+Backburner, Detonator, Back Scratcher, (not applicable)
+Backburner, Detonator, Sharpened Volcano Fragment, (not applicable)
+Backburner, Detonator, Third Degree, (not applicable)
+Backburner, Detonator, Neon Annihilator, (not applicable)
+Backburner, Detonator, Hot Hand, (not applicable)
+Backburner, Scorch Shot, Fire Axe, (not applicable)
+Backburner, Scorch Shot, Axtinguisher, (not applicable)
+Backburner, Scorch Shot, Homewrecker, (not applicable)
+Backburner, Scorch Shot, Powerjack, (not applicable)
+Backburner, Scorch Shot, Back Scratcher, (not applicable)
+Backburner, Scorch Shot, Sharpened Volcano Fragment, (not applicable)
+Backburner, Scorch Shot, Third Degree, (not applicable)
+Backburner, Scorch Shot, Neon Annihilator, (not applicable)
+Backburner, Scorch Shot, Hot Hand, (not applicable)
+Backburner, Manmelter, Fire Axe, (not applicable)
+Backburner, Manmelter, Axtinguisher, (not applicable)
+Backburner, Manmelter, Homewrecker, (not applicable)
+Backburner, Manmelter, Powerjack, (not applicable)
+Backburner, Manmelter, Back Scratcher, (not applicable)
+Backburner, Manmelter, Sharpened Volcano Fragment, (not applicable)
+Backburner, Manmelter, Third Degree, (not applicable)
+Backburner, Manmelter, Neon Annihilator, (not applicable)
+Backburner, Manmelter, Hot Hand, (not applicable)
+Backburner, Gas Passer, Fire Axe, (not applicable)
+Backburner, Gas Passer, Axtinguisher, (not applicable)
+Backburner, Gas Passer, Homewrecker, (not applicable)
+Backburner, Gas Passer, Powerjack, (not applicable)
+Backburner, Gas Passer, Back Scratcher, (not applicable)
+Backburner, Gas Passer, Sharpened Volcano Fragment, (not applicable)
+Backburner, Gas Passer, Third Degree, (not applicable)
+Backburner, Gas Passer, Neon Annihilator, (not applicable)
+Backburner, Gas Passer, Hot Hand, (not applicable)
+Degreaser, Shotgun, Fire Axe, (not applicable)
+Degreaser, Shotgun, Axtinguisher, (not applicable)
+Degreaser, Shotgun, Homewrecker, (not applicable)
+Degreaser, Shotgun, Powerjack, (not applicable)
+Degreaser, Shotgun, Back Scratcher, (not applicable)
+Degreaser, Shotgun, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Shotgun, Third Degree, (not applicable)
+Degreaser, Shotgun, Neon Annihilator, (not applicable)
+Degreaser, Shotgun, Hot Hand, (not applicable)
+Degreaser, Panic Attack, Fire Axe, (not applicable)
+Degreaser, Panic Attack, Axtinguisher, (not applicable)
+Degreaser, Panic Attack, Homewrecker, (not applicable)
+Degreaser, Panic Attack, Powerjack, (not applicable)
+Degreaser, Panic Attack, Back Scratcher, (not applicable)
+Degreaser, Panic Attack, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Panic Attack, Third Degree, (not applicable)
+Degreaser, Panic Attack, Neon Annihilator, (not applicable)
+Degreaser, Panic Attack, Hot Hand, (not applicable)
+Degreaser, Reserve Shooter, Fire Axe, (not applicable)
+Degreaser, Reserve Shooter, Axtinguisher, (not applicable)
+Degreaser, Reserve Shooter, Homewrecker, (not applicable)
+Degreaser, Reserve Shooter, Powerjack, (not applicable)
+Degreaser, Reserve Shooter, Back Scratcher, (not applicable)
+Degreaser, Reserve Shooter, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Reserve Shooter, Third Degree, (not applicable)
+Degreaser, Reserve Shooter, Neon Annihilator, (not applicable)
+Degreaser, Reserve Shooter, Hot Hand, (not applicable)
+Degreaser, Thermal Thruster, Fire Axe, (not applicable)
+Degreaser, Thermal Thruster, Axtinguisher, (not applicable)
+Degreaser, Thermal Thruster, Homewrecker, (not applicable)
+Degreaser, Thermal Thruster, Powerjack, (not applicable)
+Degreaser, Thermal Thruster, Back Scratcher, (not applicable)
+Degreaser, Thermal Thruster, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Thermal Thruster, Third Degree, (not applicable)
+Degreaser, Thermal Thruster, Neon Annihilator, (not applicable)
+Degreaser, Thermal Thruster, Hot Hand, (not applicable)
+Degreaser, Flare Gun, Fire Axe, (not applicable)
+Degreaser, Flare Gun, Axtinguisher, (not applicable)
+Degreaser, Flare Gun, Homewrecker, (not applicable)
+Degreaser, Flare Gun, Powerjack, (not applicable)
+Degreaser, Flare Gun, Back Scratcher, (not applicable)
+Degreaser, Flare Gun, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Flare Gun, Third Degree, (not applicable)
+Degreaser, Flare Gun, Neon Annihilator, (not applicable)
+Degreaser, Flare Gun, Hot Hand, (not applicable)
+Degreaser, Detonator, Fire Axe, (not applicable)
+Degreaser, Detonator, Axtinguisher, (not applicable)
+Degreaser, Detonator, Homewrecker, (not applicable)
+Degreaser, Detonator, Powerjack, (not applicable)
+Degreaser, Detonator, Back Scratcher, (not applicable)
+Degreaser, Detonator, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Detonator, Third Degree, (not applicable)
+Degreaser, Detonator, Neon Annihilator, (not applicable)
+Degreaser, Detonator, Hot Hand, (not applicable)
+Degreaser, Scorch Shot, Fire Axe, (not applicable)
+Degreaser, Scorch Shot, Axtinguisher, (not applicable)
+Degreaser, Scorch Shot, Homewrecker, (not applicable)
+Degreaser, Scorch Shot, Powerjack, (not applicable)
+Degreaser, Scorch Shot, Back Scratcher, (not applicable)
+Degreaser, Scorch Shot, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Scorch Shot, Third Degree, (not applicable)
+Degreaser, Scorch Shot, Neon Annihilator, (not applicable)
+Degreaser, Scorch Shot, Hot Hand, (not applicable)
+Degreaser, Manmelter, Fire Axe, (not applicable)
+Degreaser, Manmelter, Axtinguisher, (not applicable)
+Degreaser, Manmelter, Homewrecker, (not applicable)
+Degreaser, Manmelter, Powerjack, (not applicable)
+Degreaser, Manmelter, Back Scratcher, (not applicable)
+Degreaser, Manmelter, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Manmelter, Third Degree, (not applicable)
+Degreaser, Manmelter, Neon Annihilator, (not applicable)
+Degreaser, Manmelter, Hot Hand, (not applicable)
+Degreaser, Gas Passer, Fire Axe, (not applicable)
+Degreaser, Gas Passer, Axtinguisher, (not applicable)
+Degreaser, Gas Passer, Homewrecker, (not applicable)
+Degreaser, Gas Passer, Powerjack, (not applicable)
+Degreaser, Gas Passer, Back Scratcher, (not applicable)
+Degreaser, Gas Passer, Sharpened Volcano Fragment, (not applicable)
+Degreaser, Gas Passer, Third Degree, (not applicable)
+Degreaser, Gas Passer, Neon Annihilator, (not applicable)
+Degreaser, Gas Passer, Hot Hand, (not applicable)
+Phlogistinator, Shotgun, Fire Axe, (not applicable)
+Phlogistinator, Shotgun, Axtinguisher, (not applicable)
+Phlogistinator, Shotgun, Homewrecker, (not applicable)
+Phlogistinator, Shotgun, Powerjack, (not applicable)
+Phlogistinator, Shotgun, Back Scratcher, (not applicable)
+Phlogistinator, Shotgun, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Shotgun, Third Degree, (not applicable)
+Phlogistinator, Shotgun, Neon Annihilator, (not applicable)
+Phlogistinator, Shotgun, Hot Hand, (not applicable)
+Phlogistinator, Panic Attack, Fire Axe, (not applicable)
+Phlogistinator, Panic Attack, Axtinguisher, (not applicable)
+Phlogistinator, Panic Attack, Homewrecker, (not applicable)
+Phlogistinator, Panic Attack, Powerjack, (not applicable)
+Phlogistinator, Panic Attack, Back Scratcher, (not applicable)
+Phlogistinator, Panic Attack, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Panic Attack, Third Degree, (not applicable)
+Phlogistinator, Panic Attack, Neon Annihilator, (not applicable)
+Phlogistinator, Panic Attack, Hot Hand, (not applicable)
+Phlogistinator, Reserve Shooter, Fire Axe, (not applicable)
+Phlogistinator, Reserve Shooter, Axtinguisher, (not applicable)
+Phlogistinator, Reserve Shooter, Homewrecker, (not applicable)
+Phlogistinator, Reserve Shooter, Powerjack, (not applicable)
+Phlogistinator, Reserve Shooter, Back Scratcher, (not applicable)
+Phlogistinator, Reserve Shooter, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Reserve Shooter, Third Degree, (not applicable)
+Phlogistinator, Reserve Shooter, Neon Annihilator, (not applicable)
+Phlogistinator, Reserve Shooter, Hot Hand, (not applicable)
+Phlogistinator, Thermal Thruster, Fire Axe, (not applicable)
+Phlogistinator, Thermal Thruster, Axtinguisher, (not applicable)
+Phlogistinator, Thermal Thruster, Homewrecker, (not applicable)
+Phlogistinator, Thermal Thruster, Powerjack, (not applicable)
+Phlogistinator, Thermal Thruster, Back Scratcher, (not applicable)
+Phlogistinator, Thermal Thruster, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Thermal Thruster, Third Degree, (not applicable)
+Phlogistinator, Thermal Thruster, Neon Annihilator, (not applicable)
+Phlogistinator, Thermal Thruster, Hot Hand, (not applicable)
+Phlogistinator, Flare Gun, Fire Axe, (not applicable)
+Phlogistinator, Flare Gun, Axtinguisher, (not applicable)
+Phlogistinator, Flare Gun, Homewrecker, (not applicable)
+Phlogistinator, Flare Gun, Powerjack, (not applicable)
+Phlogistinator, Flare Gun, Back Scratcher, (not applicable)
+Phlogistinator, Flare Gun, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Flare Gun, Third Degree, (not applicable)
+Phlogistinator, Flare Gun, Neon Annihilator, (not applicable)
+Phlogistinator, Flare Gun, Hot Hand, (not applicable)
+Phlogistinator, Detonator, Fire Axe, (not applicable)
+Phlogistinator, Detonator, Axtinguisher, (not applicable)
+Phlogistinator, Detonator, Homewrecker, (not applicable)
+Phlogistinator, Detonator, Powerjack, (not applicable)
+Phlogistinator, Detonator, Back Scratcher, (not applicable)
+Phlogistinator, Detonator, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Detonator, Third Degree, (not applicable)
+Phlogistinator, Detonator, Neon Annihilator, (not applicable)
+Phlogistinator, Detonator, Hot Hand, (not applicable)
+Phlogistinator, Scorch Shot, Fire Axe, (not applicable)
+Phlogistinator, Scorch Shot, Axtinguisher, (not applicable)
+Phlogistinator, Scorch Shot, Homewrecker, (not applicable)
+Phlogistinator, Scorch Shot, Powerjack, (not applicable)
+Phlogistinator, Scorch Shot, Back Scratcher, (not applicable)
+Phlogistinator, Scorch Shot, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Scorch Shot, Third Degree, (not applicable)
+Phlogistinator, Scorch Shot, Neon Annihilator, (not applicable)
+Phlogistinator, Scorch Shot, Hot Hand, (not applicable)
+Phlogistinator, Manmelter, Fire Axe, (not applicable)
+Phlogistinator, Manmelter, Axtinguisher, (not applicable)
+Phlogistinator, Manmelter, Homewrecker, (not applicable)
+Phlogistinator, Manmelter, Powerjack, (not applicable)
+Phlogistinator, Manmelter, Back Scratcher, (not applicable)
+Phlogistinator, Manmelter, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Manmelter, Third Degree, (not applicable)
+Phlogistinator, Manmelter, Neon Annihilator, (not applicable)
+Phlogistinator, Manmelter, Hot Hand, (not applicable)
+Phlogistinator, Gas Passer, Fire Axe, (not applicable)
+Phlogistinator, Gas Passer, Axtinguisher, (not applicable)
+Phlogistinator, Gas Passer, Homewrecker, (not applicable)
+Phlogistinator, Gas Passer, Powerjack, (not applicable)
+Phlogistinator, Gas Passer, Back Scratcher, (not applicable)
+Phlogistinator, Gas Passer, Sharpened Volcano Fragment, (not applicable)
+Phlogistinator, Gas Passer, Third Degree, (not applicable)
+Phlogistinator, Gas Passer, Neon Annihilator, (not applicable)
+Phlogistinator, Gas Passer, Hot Hand, (not applicable)
+Dragon's Fury, Shotgun, Fire Axe, (not applicable)
+Dragon's Fury, Shotgun, Axtinguisher, (not applicable)
+Dragon's Fury, Shotgun, Homewrecker, (not applicable)
+Dragon's Fury, Shotgun, Powerjack, (not applicable)
+Dragon's Fury, Shotgun, Back Scratcher, (not applicable)
+Dragon's Fury, Shotgun, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Shotgun, Third Degree, (not applicable)
+Dragon's Fury, Shotgun, Neon Annihilator, (not applicable)
+Dragon's Fury, Shotgun, Hot Hand, (not applicable)
+Dragon's Fury, Panic Attack, Fire Axe, (not applicable)
+Dragon's Fury, Panic Attack, Axtinguisher, (not applicable)
+Dragon's Fury, Panic Attack, Homewrecker, (not applicable)
+Dragon's Fury, Panic Attack, Powerjack, (not applicable)
+Dragon's Fury, Panic Attack, Back Scratcher, (not applicable)
+Dragon's Fury, Panic Attack, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Panic Attack, Third Degree, (not applicable)
+Dragon's Fury, Panic Attack, Neon Annihilator, (not applicable)
+Dragon's Fury, Panic Attack, Hot Hand, (not applicable)
+Dragon's Fury, Reserve Shooter, Fire Axe, (not applicable)
+Dragon's Fury, Reserve Shooter, Axtinguisher, (not applicable)
+Dragon's Fury, Reserve Shooter, Homewrecker, (not applicable)
+Dragon's Fury, Reserve Shooter, Powerjack, (not applicable)
+Dragon's Fury, Reserve Shooter, Back Scratcher, (not applicable)
+Dragon's Fury, Reserve Shooter, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Reserve Shooter, Third Degree, (not applicable)
+Dragon's Fury, Reserve Shooter, Neon Annihilator, (not applicable)
+Dragon's Fury, Reserve Shooter, Hot Hand, (not applicable)
+Dragon's Fury, Thermal Thruster, Fire Axe, (not applicable)
+Dragon's Fury, Thermal Thruster, Axtinguisher, (not applicable)
+Dragon's Fury, Thermal Thruster, Homewrecker, (not applicable)
+Dragon's Fury, Thermal Thruster, Powerjack, (not applicable)
+Dragon's Fury, Thermal Thruster, Back Scratcher, (not applicable)
+Dragon's Fury, Thermal Thruster, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Thermal Thruster, Third Degree, (not applicable)
+Dragon's Fury, Thermal Thruster, Neon Annihilator, (not applicable)
+Dragon's Fury, Thermal Thruster, Hot Hand, (not applicable)
+Dragon's Fury, Flare Gun, Fire Axe, (not applicable)
+Dragon's Fury, Flare Gun, Axtinguisher, (not applicable)
+Dragon's Fury, Flare Gun, Homewrecker, (not applicable)
+Dragon's Fury, Flare Gun, Powerjack, (not applicable)
+Dragon's Fury, Flare Gun, Back Scratcher, (not applicable)
+Dragon's Fury, Flare Gun, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Flare Gun, Third Degree, (not applicable)
+Dragon's Fury, Flare Gun, Neon Annihilator, (not applicable)
+Dragon's Fury, Flare Gun, Hot Hand, (not applicable)
+Dragon's Fury, Detonator, Fire Axe, (not applicable)
+Dragon's Fury, Detonator, Axtinguisher, (not applicable)
+Dragon's Fury, Detonator, Homewrecker, (not applicable)
+Dragon's Fury, Detonator, Powerjack, (not applicable)
+Dragon's Fury, Detonator, Back Scratcher, (not applicable)
+Dragon's Fury, Detonator, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Detonator, Third Degree, (not applicable)
+Dragon's Fury, Detonator, Neon Annihilator, (not applicable)
+Dragon's Fury, Detonator, Hot Hand, (not applicable)
+Dragon's Fury, Scorch Shot, Fire Axe, (not applicable)
+Dragon's Fury, Scorch Shot, Axtinguisher, (not applicable)
+Dragon's Fury, Scorch Shot, Homewrecker, (not applicable)
+Dragon's Fury, Scorch Shot, Powerjack, (not applicable)
+Dragon's Fury, Scorch Shot, Back Scratcher, (not applicable)
+Dragon's Fury, Scorch Shot, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Scorch Shot, Third Degree, (not applicable)
+Dragon's Fury, Scorch Shot, Neon Annihilator, (not applicable)
+Dragon's Fury, Scorch Shot, Hot Hand, (not applicable)
+Dragon's Fury, Manmelter, Fire Axe, (not applicable)
+Dragon's Fury, Manmelter, Axtinguisher, (not applicable)
+Dragon's Fury, Manmelter, Homewrecker, (not applicable)
+Dragon's Fury, Manmelter, Powerjack, (not applicable)
+Dragon's Fury, Manmelter, Back Scratcher, (not applicable)
+Dragon's Fury, Manmelter, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Manmelter, Third Degree, (not applicable)
+Dragon's Fury, Manmelter, Neon Annihilator, (not applicable)
+Dragon's Fury, Manmelter, Hot Hand, (not applicable)
+Dragon's Fury, Gas Passer, Fire Axe, (not applicable)
+Dragon's Fury, Gas Passer, Axtinguisher, (not applicable)
+Dragon's Fury, Gas Passer, Homewrecker, (not applicable)
+Dragon's Fury, Gas Passer, Powerjack, (not applicable)
+Dragon's Fury, Gas Passer, Back Scratcher, (not applicable)
+Dragon's Fury, Gas Passer, Sharpened Volcano Fragment, (not applicable)
+Dragon's Fury, Gas Passer, Third Degree, (not applicable)
+Dragon's Fury, Gas Passer, Neon Annihilator, (not applicable)
+Dragon's Fury, Gas Passer, Hot Hand, (not applicable)
+
+DEMOMAN
+Grenade Launcher, Stickybomb Launcher, Bottle, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Eyelander, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Pain Train, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Grenade Launcher, Stickybomb Launcher, Persian Persuader, (not applicable)
+Grenade Launcher, Sticky Jumper, Bottle, (not applicable)
+Grenade Launcher, Sticky Jumper, Eyelander, (not applicable)
+Grenade Launcher, Sticky Jumper, Pain Train, (not applicable)
+Grenade Launcher, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Sticky Jumper, Ullapool Caber, (not applicable)
+Grenade Launcher, Sticky Jumper, Half-Zatoichi, (not applicable)
+Grenade Launcher, Sticky Jumper, Persian Persuader, (not applicable)
+Grenade Launcher, Chargin' Targe, Bottle, (not applicable)
+Grenade Launcher, Chargin' Targe, Eyelander, (not applicable)
+Grenade Launcher, Chargin' Targe, Pain Train, (not applicable)
+Grenade Launcher, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Chargin' Targe, Ullapool Caber, (not applicable)
+Grenade Launcher, Chargin' Targe, Half-Zatoichi, (not applicable)
+Grenade Launcher, Chargin' Targe, Persian Persuader, (not applicable)
+Grenade Launcher, Splendid Screen, Bottle, (not applicable)
+Grenade Launcher, Splendid Screen, Eyelander, (not applicable)
+Grenade Launcher, Splendid Screen, Pain Train, (not applicable)
+Grenade Launcher, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Splendid Screen, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Splendid Screen, Ullapool Caber, (not applicable)
+Grenade Launcher, Splendid Screen, Half-Zatoichi, (not applicable)
+Grenade Launcher, Splendid Screen, Persian Persuader, (not applicable)
+Grenade Launcher, Tide Turner, Bottle, (not applicable)
+Grenade Launcher, Tide Turner, Eyelander, (not applicable)
+Grenade Launcher, Tide Turner, Pain Train, (not applicable)
+Grenade Launcher, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Tide Turner, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Tide Turner, Ullapool Caber, (not applicable)
+Grenade Launcher, Tide Turner, Half-Zatoichi, (not applicable)
+Grenade Launcher, Tide Turner, Persian Persuader, (not applicable)
+Grenade Launcher, Scottish Resistance, Bottle, (not applicable)
+Grenade Launcher, Scottish Resistance, Eyelander, (not applicable)
+Grenade Launcher, Scottish Resistance, Pain Train, (not applicable)
+Grenade Launcher, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Scottish Resistance, Ullapool Caber, (not applicable)
+Grenade Launcher, Scottish Resistance, Half-Zatoichi, (not applicable)
+Grenade Launcher, Scottish Resistance, Persian Persuader, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Bottle, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Eyelander, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Pain Train, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Grenade Launcher, Quickiebomb Launcher, Persian Persuader, (not applicable)
+Iron Bomber, Stickybomb Launcher, Bottle, (not applicable)
+Iron Bomber, Stickybomb Launcher, Eyelander, (not applicable)
+Iron Bomber, Stickybomb Launcher, Pain Train, (not applicable)
+Iron Bomber, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Iron Bomber, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Iron Bomber, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Iron Bomber, Stickybomb Launcher, Persian Persuader, (not applicable)
+Iron Bomber, Sticky Jumper, Bottle, (not applicable)
+Iron Bomber, Sticky Jumper, Eyelander, (not applicable)
+Iron Bomber, Sticky Jumper, Pain Train, (not applicable)
+Iron Bomber, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Iron Bomber, Sticky Jumper, Ullapool Caber, (not applicable)
+Iron Bomber, Sticky Jumper, Half-Zatoichi, (not applicable)
+Iron Bomber, Sticky Jumper, Persian Persuader, (not applicable)
+Iron Bomber, Chargin' Targe, Bottle, (not applicable)
+Iron Bomber, Chargin' Targe, Eyelander, (not applicable)
+Iron Bomber, Chargin' Targe, Pain Train, (not applicable)
+Iron Bomber, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Iron Bomber, Chargin' Targe, Ullapool Caber, (not applicable)
+Iron Bomber, Chargin' Targe, Half-Zatoichi, (not applicable)
+Iron Bomber, Chargin' Targe, Persian Persuader, (not applicable)
+Iron Bomber, Splendid Screen, Bottle, (not applicable)
+Iron Bomber, Splendid Screen, Eyelander, (not applicable)
+Iron Bomber, Splendid Screen, Pain Train, (not applicable)
+Iron Bomber, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Splendid Screen, Claidheamh Mòr, (not applicable)
+Iron Bomber, Splendid Screen, Ullapool Caber, (not applicable)
+Iron Bomber, Splendid Screen, Half-Zatoichi, (not applicable)
+Iron Bomber, Splendid Screen, Persian Persuader, (not applicable)
+Iron Bomber, Tide Turner, Bottle, (not applicable)
+Iron Bomber, Tide Turner, Eyelander, (not applicable)
+Iron Bomber, Tide Turner, Pain Train, (not applicable)
+Iron Bomber, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Tide Turner, Claidheamh Mòr, (not applicable)
+Iron Bomber, Tide Turner, Ullapool Caber, (not applicable)
+Iron Bomber, Tide Turner, Half-Zatoichi, (not applicable)
+Iron Bomber, Tide Turner, Persian Persuader, (not applicable)
+Iron Bomber, Scottish Resistance, Bottle, (not applicable)
+Iron Bomber, Scottish Resistance, Eyelander, (not applicable)
+Iron Bomber, Scottish Resistance, Pain Train, (not applicable)
+Iron Bomber, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Iron Bomber, Scottish Resistance, Ullapool Caber, (not applicable)
+Iron Bomber, Scottish Resistance, Half-Zatoichi, (not applicable)
+Iron Bomber, Scottish Resistance, Persian Persuader, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Bottle, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Eyelander, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Pain Train, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Iron Bomber, Quickiebomb Launcher, Persian Persuader, (not applicable)
+Loose Cannon, Stickybomb Launcher, Bottle, (not applicable)
+Loose Cannon, Stickybomb Launcher, Eyelander, (not applicable)
+Loose Cannon, Stickybomb Launcher, Pain Train, (not applicable)
+Loose Cannon, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Loose Cannon, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Loose Cannon, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Loose Cannon, Stickybomb Launcher, Persian Persuader, (not applicable)
+Loose Cannon, Sticky Jumper, Bottle, (not applicable)
+Loose Cannon, Sticky Jumper, Eyelander, (not applicable)
+Loose Cannon, Sticky Jumper, Pain Train, (not applicable)
+Loose Cannon, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Loose Cannon, Sticky Jumper, Ullapool Caber, (not applicable)
+Loose Cannon, Sticky Jumper, Half-Zatoichi, (not applicable)
+Loose Cannon, Sticky Jumper, Persian Persuader, (not applicable)
+Loose Cannon, Chargin' Targe, Bottle, (not applicable)
+Loose Cannon, Chargin' Targe, Eyelander, (not applicable)
+Loose Cannon, Chargin' Targe, Pain Train, (not applicable)
+Loose Cannon, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Loose Cannon, Chargin' Targe, Ullapool Caber, (not applicable)
+Loose Cannon, Chargin' Targe, Half-Zatoichi, (not applicable)
+Loose Cannon, Chargin' Targe, Persian Persuader, (not applicable)
+Loose Cannon, Splendid Screen, Bottle, (not applicable)
+Loose Cannon, Splendid Screen, Eyelander, (not applicable)
+Loose Cannon, Splendid Screen, Pain Train, (not applicable)
+Loose Cannon, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Splendid Screen, Claidheamh Mòr, (not applicable)
+Loose Cannon, Splendid Screen, Ullapool Caber, (not applicable)
+Loose Cannon, Splendid Screen, Half-Zatoichi, (not applicable)
+Loose Cannon, Splendid Screen, Persian Persuader, (not applicable)
+Loose Cannon, Tide Turner, Bottle, (not applicable)
+Loose Cannon, Tide Turner, Eyelander, (not applicable)
+Loose Cannon, Tide Turner, Pain Train, (not applicable)
+Loose Cannon, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Tide Turner, Claidheamh Mòr, (not applicable)
+Loose Cannon, Tide Turner, Ullapool Caber, (not applicable)
+Loose Cannon, Tide Turner, Half-Zatoichi, (not applicable)
+Loose Cannon, Tide Turner, Persian Persuader, (not applicable)
+Loose Cannon, Scottish Resistance, Bottle, (not applicable)
+Loose Cannon, Scottish Resistance, Eyelander, (not applicable)
+Loose Cannon, Scottish Resistance, Pain Train, (not applicable)
+Loose Cannon, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Loose Cannon, Scottish Resistance, Ullapool Caber, (not applicable)
+Loose Cannon, Scottish Resistance, Half-Zatoichi, (not applicable)
+Loose Cannon, Scottish Resistance, Persian Persuader, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Bottle, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Eyelander, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Pain Train, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Loose Cannon, Quickiebomb Launcher, Persian Persuader, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Bottle, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Eyelander, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Pain Train, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Loch-n-Load, Stickybomb Launcher, Persian Persuader, (not applicable)
+Loch-n-Load, Sticky Jumper, Bottle, (not applicable)
+Loch-n-Load, Sticky Jumper, Eyelander, (not applicable)
+Loch-n-Load, Sticky Jumper, Pain Train, (not applicable)
+Loch-n-Load, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Sticky Jumper, Ullapool Caber, (not applicable)
+Loch-n-Load, Sticky Jumper, Half-Zatoichi, (not applicable)
+Loch-n-Load, Sticky Jumper, Persian Persuader, (not applicable)
+Loch-n-Load, Chargin' Targe, Bottle, (not applicable)
+Loch-n-Load, Chargin' Targe, Eyelander, (not applicable)
+Loch-n-Load, Chargin' Targe, Pain Train, (not applicable)
+Loch-n-Load, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Chargin' Targe, Ullapool Caber, (not applicable)
+Loch-n-Load, Chargin' Targe, Half-Zatoichi, (not applicable)
+Loch-n-Load, Chargin' Targe, Persian Persuader, (not applicable)
+Loch-n-Load, Splendid Screen, Bottle, (not applicable)
+Loch-n-Load, Splendid Screen, Eyelander, (not applicable)
+Loch-n-Load, Splendid Screen, Pain Train, (not applicable)
+Loch-n-Load, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Splendid Screen, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Splendid Screen, Ullapool Caber, (not applicable)
+Loch-n-Load, Splendid Screen, Half-Zatoichi, (not applicable)
+Loch-n-Load, Splendid Screen, Persian Persuader, (not applicable)
+Loch-n-Load, Tide Turner, Bottle, (not applicable)
+Loch-n-Load, Tide Turner, Eyelander, (not applicable)
+Loch-n-Load, Tide Turner, Pain Train, (not applicable)
+Loch-n-Load, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Tide Turner, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Tide Turner, Ullapool Caber, (not applicable)
+Loch-n-Load, Tide Turner, Half-Zatoichi, (not applicable)
+Loch-n-Load, Tide Turner, Persian Persuader, (not applicable)
+Loch-n-Load, Scottish Resistance, Bottle, (not applicable)
+Loch-n-Load, Scottish Resistance, Eyelander, (not applicable)
+Loch-n-Load, Scottish Resistance, Pain Train, (not applicable)
+Loch-n-Load, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Scottish Resistance, Ullapool Caber, (not applicable)
+Loch-n-Load, Scottish Resistance, Half-Zatoichi, (not applicable)
+Loch-n-Load, Scottish Resistance, Persian Persuader, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Bottle, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Eyelander, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Pain Train, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Loch-n-Load, Quickiebomb Launcher, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Bottle, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Stickybomb Launcher, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Bottle, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Sticky Jumper, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Bottle, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Chargin' Targe, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Bottle, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Splendid Screen, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Bottle, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Tide Turner, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Bottle, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Scottish Resistance, Persian Persuader, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Bottle, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Eyelander, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Pain Train, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Ali Baba's Wee Booties, Quickiebomb Launcher, Persian Persuader, (not applicable)
+Bootlegger, Stickybomb Launcher, Bottle, (not applicable)
+Bootlegger, Stickybomb Launcher, Eyelander, (not applicable)
+Bootlegger, Stickybomb Launcher, Pain Train, (not applicable)
+Bootlegger, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+Bootlegger, Stickybomb Launcher, Ullapool Caber, (not applicable)
+Bootlegger, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+Bootlegger, Stickybomb Launcher, Persian Persuader, (not applicable)
+Bootlegger, Sticky Jumper, Bottle, (not applicable)
+Bootlegger, Sticky Jumper, Eyelander, (not applicable)
+Bootlegger, Sticky Jumper, Pain Train, (not applicable)
+Bootlegger, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Sticky Jumper, Claidheamh Mòr, (not applicable)
+Bootlegger, Sticky Jumper, Ullapool Caber, (not applicable)
+Bootlegger, Sticky Jumper, Half-Zatoichi, (not applicable)
+Bootlegger, Sticky Jumper, Persian Persuader, (not applicable)
+Bootlegger, Chargin' Targe, Bottle, (not applicable)
+Bootlegger, Chargin' Targe, Eyelander, (not applicable)
+Bootlegger, Chargin' Targe, Pain Train, (not applicable)
+Bootlegger, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Chargin' Targe, Claidheamh Mòr, (not applicable)
+Bootlegger, Chargin' Targe, Ullapool Caber, (not applicable)
+Bootlegger, Chargin' Targe, Half-Zatoichi, (not applicable)
+Bootlegger, Chargin' Targe, Persian Persuader, (not applicable)
+Bootlegger, Splendid Screen, Bottle, (not applicable)
+Bootlegger, Splendid Screen, Eyelander, (not applicable)
+Bootlegger, Splendid Screen, Pain Train, (not applicable)
+Bootlegger, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Splendid Screen, Claidheamh Mòr, (not applicable)
+Bootlegger, Splendid Screen, Ullapool Caber, (not applicable)
+Bootlegger, Splendid Screen, Half-Zatoichi, (not applicable)
+Bootlegger, Splendid Screen, Persian Persuader, (not applicable)
+Bootlegger, Tide Turner, Bottle, (not applicable)
+Bootlegger, Tide Turner, Eyelander, (not applicable)
+Bootlegger, Tide Turner, Pain Train, (not applicable)
+Bootlegger, Tide Turner, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Tide Turner, Claidheamh Mòr, (not applicable)
+Bootlegger, Tide Turner, Ullapool Caber, (not applicable)
+Bootlegger, Tide Turner, Half-Zatoichi, (not applicable)
+Bootlegger, Tide Turner, Persian Persuader, (not applicable)
+Bootlegger, Scottish Resistance, Bottle, (not applicable)
+Bootlegger, Scottish Resistance, Eyelander, (not applicable)
+Bootlegger, Scottish Resistance, Pain Train, (not applicable)
+Bootlegger, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Scottish Resistance, Claidheamh Mòr, (not applicable)
+Bootlegger, Scottish Resistance, Ullapool Caber, (not applicable)
+Bootlegger, Scottish Resistance, Half-Zatoichi, (not applicable)
+Bootlegger, Scottish Resistance, Persian Persuader, (not applicable)
+Bootlegger, Quickiebomb Launcher, Bottle, (not applicable)
+Bootlegger, Quickiebomb Launcher, Eyelander, (not applicable)
+Bootlegger, Quickiebomb Launcher, Pain Train, (not applicable)
+Bootlegger, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+Bootlegger, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+Bootlegger, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+Bootlegger, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+Bootlegger, Quickiebomb Launcher, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Bottle, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Eyelander, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Pain Train, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Stickybomb Launcher, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Bottle, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Eyelander, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Pain Train, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Sticky Jumper, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Bottle, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Eyelander, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Pain Train, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Chargin' Targe, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Bottle, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Eyelander, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Pain Train, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Splendid Screen, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Bottle, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Eyelander, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Pain Train, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Tide Turner, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Bottle, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Eyelander, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Pain Train, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Scottish Resistance, Persian Persuader, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Bottle, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Eyelander, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Pain Train, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Scotsman's Skullcutter, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Claidheamh Mòr, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Ullapool Caber, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Half-Zatoichi, (not applicable)
+B.A.S.E. Jumper, Quickiebomb Launcher, Persian Persuader, (not applicable)
+
+HEAVY
+Minigun, Shogun, Fists, (not applicable)
+Minigun, Shogun, Gloves of Runnings Urgently, (not applicable)
+Minigun, Shogun, Killing Gloves of Boxing, (not applicable)
+Minigun, Shogun, Eviction Notice, (not applicable)
+Minigun, Shogun, Apoco-Fists, (not applicable)
+Minigun, Shogun, Bread Bite, (not applicable)
+Minigun, Shogun, Warrior's Spirit, (not applicable)
+Minigun, Shogun, Fists of Steel, (not applicable)
+Minigun, Shogun, Holiday Punch, (not applicable)
+Minigun, Family Business, Fists, (not applicable)
+Minigun, Family Business, Gloves of Runnings Urgently, (not applicable)
+Minigun, Family Business, Killing Gloves of Boxing, (not applicable)
+Minigun, Family Business, Eviction Notice, (not applicable)
+Minigun, Family Business, Apoco-Fists, (not applicable)
+Minigun, Family Business, Bread Bite, (not applicable)
+Minigun, Family Business, Warrior's Spirit, (not applicable)
+Minigun, Family Business, Fists of Steel, (not applicable)
+Minigun, Family Business, Holiday Punch, (not applicable)
+Minigun, Panic Attack, Fists, (not applicable)
+Minigun, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Minigun, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Minigun, Panic Attack, Eviction Notice, (not applicable)
+Minigun, Panic Attack, Apoco-Fists, (not applicable)
+Minigun, Panic Attack, Bread Bite, (not applicable)
+Minigun, Panic Attack, Warrior's Spirit, (not applicable)
+Minigun, Panic Attack, Fists of Steel, (not applicable)
+Minigun, Panic Attack, Holiday Punch, (not applicable)
+Minigun, Second Banana, Fists, (not applicable)
+Minigun, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Minigun, Second Banana, Killing Gloves of Boxing, (not applicable)
+Minigun, Second Banana, Eviction Notice, (not applicable)
+Minigun, Second Banana, Apoco-Fists, (not applicable)
+Minigun, Second Banana, Bread Bite, (not applicable)
+Minigun, Second Banana, Warrior's Spirit, (not applicable)
+Minigun, Second Banana, Fists of Steel, (not applicable)
+Minigun, Second Banana, Holiday Punch, (not applicable)
+Minigun, Dalokohs Bar, Fists, (not applicable)
+Minigun, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Minigun, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Minigun, Dalokohs Bar, Eviction Notice, (not applicable)
+Minigun, Dalokohs Bar, Apoco-Fists, (not applicable)
+Minigun, Dalokohs Bar, Bread Bite, (not applicable)
+Minigun, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Minigun, Dalokohs Bar, Fists of Steel, (not applicable)
+Minigun, Dalokohs Bar, Holiday Punch, (not applicable)
+Minigun, Sanvich, Fists, (not applicable)
+Minigun, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Minigun, Sanvich, Killing Gloves of Boxing, (not applicable)
+Minigun, Sanvich, Eviction Notice, (not applicable)
+Minigun, Sanvich, Apoco-Fists, (not applicable)
+Minigun, Sanvich, Bread Bite, (not applicable)
+Minigun, Sanvich, Warrior's Spirit, (not applicable)
+Minigun, Sanvich, Fists of Steel, (not applicable)
+Minigun, Sanvich, Holiday Punch, (not applicable)
+Minigun, Robo-Sandvich, Fists, (not applicable)
+Minigun, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Minigun, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Minigun, Robo-Sandvich, Eviction Notice, (not applicable)
+Minigun, Robo-Sandvich, Apoco-Fists, (not applicable)
+Minigun, Robo-Sandvich, Bread Bite, (not applicable)
+Minigun, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Minigun, Robo-Sandvich, Fists of Steel, (not applicable)
+Minigun, Robo-Sandvich, Holiday Punch, (not applicable)
+Minigun, Fishcake, Fists, (not applicable)
+Minigun, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Minigun, Fishcake, Killing Gloves of Boxing, (not applicable)
+Minigun, Fishcake, Eviction Notice, (not applicable)
+Minigun, Fishcake, Apoco-Fists, (not applicable)
+Minigun, Fishcake, Bread Bite, (not applicable)
+Minigun, Fishcake, Warrior's Spirit, (not applicable)
+Minigun, Fishcake, Fists of Steel, (not applicable)
+Minigun, Fishcake, Holiday Punch, (not applicable)
+Minigun, Buffalo Steak Sandvich, Fists, (not applicable)
+Minigun, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Minigun, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Minigun, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Minigun, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Minigun, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Minigun, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Minigun, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Minigun, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+Natascha, Shogun, Fists, (not applicable)
+Natascha, Shogun, Gloves of Runnings Urgently, (not applicable)
+Natascha, Shogun, Killing Gloves of Boxing, (not applicable)
+Natascha, Shogun, Eviction Notice, (not applicable)
+Natascha, Shogun, Apoco-Fists, (not applicable)
+Natascha, Shogun, Bread Bite, (not applicable)
+Natascha, Shogun, Warrior's Spirit, (not applicable)
+Natascha, Shogun, Fists of Steel, (not applicable)
+Natascha, Shogun, Holiday Punch, (not applicable)
+Natascha, Family Business, Fists, (not applicable)
+Natascha, Family Business, Gloves of Runnings Urgently, (not applicable)
+Natascha, Family Business, Killing Gloves of Boxing, (not applicable)
+Natascha, Family Business, Eviction Notice, (not applicable)
+Natascha, Family Business, Apoco-Fists, (not applicable)
+Natascha, Family Business, Bread Bite, (not applicable)
+Natascha, Family Business, Warrior's Spirit, (not applicable)
+Natascha, Family Business, Fists of Steel, (not applicable)
+Natascha, Family Business, Holiday Punch, (not applicable)
+Natascha, Panic Attack, Fists, (not applicable)
+Natascha, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Natascha, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Natascha, Panic Attack, Eviction Notice, (not applicable)
+Natascha, Panic Attack, Apoco-Fists, (not applicable)
+Natascha, Panic Attack, Bread Bite, (not applicable)
+Natascha, Panic Attack, Warrior's Spirit, (not applicable)
+Natascha, Panic Attack, Fists of Steel, (not applicable)
+Natascha, Panic Attack, Holiday Punch, (not applicable)
+Natascha, Second Banana, Fists, (not applicable)
+Natascha, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Natascha, Second Banana, Killing Gloves of Boxing, (not applicable)
+Natascha, Second Banana, Eviction Notice, (not applicable)
+Natascha, Second Banana, Apoco-Fists, (not applicable)
+Natascha, Second Banana, Bread Bite, (not applicable)
+Natascha, Second Banana, Warrior's Spirit, (not applicable)
+Natascha, Second Banana, Fists of Steel, (not applicable)
+Natascha, Second Banana, Holiday Punch, (not applicable)
+Natascha, Dalokohs Bar, Fists, (not applicable)
+Natascha, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Natascha, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Natascha, Dalokohs Bar, Eviction Notice, (not applicable)
+Natascha, Dalokohs Bar, Apoco-Fists, (not applicable)
+Natascha, Dalokohs Bar, Bread Bite, (not applicable)
+Natascha, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Natascha, Dalokohs Bar, Fists of Steel, (not applicable)
+Natascha, Dalokohs Bar, Holiday Punch, (not applicable)
+Natascha, Sanvich, Fists, (not applicable)
+Natascha, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Natascha, Sanvich, Killing Gloves of Boxing, (not applicable)
+Natascha, Sanvich, Eviction Notice, (not applicable)
+Natascha, Sanvich, Apoco-Fists, (not applicable)
+Natascha, Sanvich, Bread Bite, (not applicable)
+Natascha, Sanvich, Warrior's Spirit, (not applicable)
+Natascha, Sanvich, Fists of Steel, (not applicable)
+Natascha, Sanvich, Holiday Punch, (not applicable)
+Natascha, Robo-Sandvich, Fists, (not applicable)
+Natascha, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Natascha, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Natascha, Robo-Sandvich, Eviction Notice, (not applicable)
+Natascha, Robo-Sandvich, Apoco-Fists, (not applicable)
+Natascha, Robo-Sandvich, Bread Bite, (not applicable)
+Natascha, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Natascha, Robo-Sandvich, Fists of Steel, (not applicable)
+Natascha, Robo-Sandvich, Holiday Punch, (not applicable)
+Natascha, Fishcake, Fists, (not applicable)
+Natascha, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Natascha, Fishcake, Killing Gloves of Boxing, (not applicable)
+Natascha, Fishcake, Eviction Notice, (not applicable)
+Natascha, Fishcake, Apoco-Fists, (not applicable)
+Natascha, Fishcake, Bread Bite, (not applicable)
+Natascha, Fishcake, Warrior's Spirit, (not applicable)
+Natascha, Fishcake, Fists of Steel, (not applicable)
+Natascha, Fishcake, Holiday Punch, (not applicable)
+Natascha, Buffalo Steak Sandvich, Fists, (not applicable)
+Natascha, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Natascha, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Natascha, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Natascha, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Natascha, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Natascha, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Natascha, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Natascha, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+Iron Curtain, Shogun, Fists, (not applicable)
+Iron Curtain, Shogun, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Shogun, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Shogun, Eviction Notice, (not applicable)
+Iron Curtain, Shogun, Apoco-Fists, (not applicable)
+Iron Curtain, Shogun, Bread Bite, (not applicable)
+Iron Curtain, Shogun, Warrior's Spirit, (not applicable)
+Iron Curtain, Shogun, Fists of Steel, (not applicable)
+Iron Curtain, Shogun, Holiday Punch, (not applicable)
+Iron Curtain, Family Business, Fists, (not applicable)
+Iron Curtain, Family Business, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Family Business, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Family Business, Eviction Notice, (not applicable)
+Iron Curtain, Family Business, Apoco-Fists, (not applicable)
+Iron Curtain, Family Business, Bread Bite, (not applicable)
+Iron Curtain, Family Business, Warrior's Spirit, (not applicable)
+Iron Curtain, Family Business, Fists of Steel, (not applicable)
+Iron Curtain, Family Business, Holiday Punch, (not applicable)
+Iron Curtain, Panic Attack, Fists, (not applicable)
+Iron Curtain, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Panic Attack, Eviction Notice, (not applicable)
+Iron Curtain, Panic Attack, Apoco-Fists, (not applicable)
+Iron Curtain, Panic Attack, Bread Bite, (not applicable)
+Iron Curtain, Panic Attack, Warrior's Spirit, (not applicable)
+Iron Curtain, Panic Attack, Fists of Steel, (not applicable)
+Iron Curtain, Panic Attack, Holiday Punch, (not applicable)
+Iron Curtain, Second Banana, Fists, (not applicable)
+Iron Curtain, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Second Banana, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Second Banana, Eviction Notice, (not applicable)
+Iron Curtain, Second Banana, Apoco-Fists, (not applicable)
+Iron Curtain, Second Banana, Bread Bite, (not applicable)
+Iron Curtain, Second Banana, Warrior's Spirit, (not applicable)
+Iron Curtain, Second Banana, Fists of Steel, (not applicable)
+Iron Curtain, Second Banana, Holiday Punch, (not applicable)
+Iron Curtain, Dalokohs Bar, Fists, (not applicable)
+Iron Curtain, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Dalokohs Bar, Eviction Notice, (not applicable)
+Iron Curtain, Dalokohs Bar, Apoco-Fists, (not applicable)
+Iron Curtain, Dalokohs Bar, Bread Bite, (not applicable)
+Iron Curtain, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Iron Curtain, Dalokohs Bar, Fists of Steel, (not applicable)
+Iron Curtain, Dalokohs Bar, Holiday Punch, (not applicable)
+Iron Curtain, Sanvich, Fists, (not applicable)
+Iron Curtain, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Sanvich, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Sanvich, Eviction Notice, (not applicable)
+Iron Curtain, Sanvich, Apoco-Fists, (not applicable)
+Iron Curtain, Sanvich, Bread Bite, (not applicable)
+Iron Curtain, Sanvich, Warrior's Spirit, (not applicable)
+Iron Curtain, Sanvich, Fists of Steel, (not applicable)
+Iron Curtain, Sanvich, Holiday Punch, (not applicable)
+Iron Curtain, Robo-Sandvich, Fists, (not applicable)
+Iron Curtain, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Robo-Sandvich, Eviction Notice, (not applicable)
+Iron Curtain, Robo-Sandvich, Apoco-Fists, (not applicable)
+Iron Curtain, Robo-Sandvich, Bread Bite, (not applicable)
+Iron Curtain, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Iron Curtain, Robo-Sandvich, Fists of Steel, (not applicable)
+Iron Curtain, Robo-Sandvich, Holiday Punch, (not applicable)
+Iron Curtain, Fishcake, Fists, (not applicable)
+Iron Curtain, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Fishcake, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Fishcake, Eviction Notice, (not applicable)
+Iron Curtain, Fishcake, Apoco-Fists, (not applicable)
+Iron Curtain, Fishcake, Bread Bite, (not applicable)
+Iron Curtain, Fishcake, Warrior's Spirit, (not applicable)
+Iron Curtain, Fishcake, Fists of Steel, (not applicable)
+Iron Curtain, Fishcake, Holiday Punch, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Fists, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Iron Curtain, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+Tomislav, Shogun, Fists, (not applicable)
+Tomislav, Shogun, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Shogun, Killing Gloves of Boxing, (not applicable)
+Tomislav, Shogun, Eviction Notice, (not applicable)
+Tomislav, Shogun, Apoco-Fists, (not applicable)
+Tomislav, Shogun, Bread Bite, (not applicable)
+Tomislav, Shogun, Warrior's Spirit, (not applicable)
+Tomislav, Shogun, Fists of Steel, (not applicable)
+Tomislav, Shogun, Holiday Punch, (not applicable)
+Tomislav, Family Business, Fists, (not applicable)
+Tomislav, Family Business, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Family Business, Killing Gloves of Boxing, (not applicable)
+Tomislav, Family Business, Eviction Notice, (not applicable)
+Tomislav, Family Business, Apoco-Fists, (not applicable)
+Tomislav, Family Business, Bread Bite, (not applicable)
+Tomislav, Family Business, Warrior's Spirit, (not applicable)
+Tomislav, Family Business, Fists of Steel, (not applicable)
+Tomislav, Family Business, Holiday Punch, (not applicable)
+Tomislav, Panic Attack, Fists, (not applicable)
+Tomislav, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Tomislav, Panic Attack, Eviction Notice, (not applicable)
+Tomislav, Panic Attack, Apoco-Fists, (not applicable)
+Tomislav, Panic Attack, Bread Bite, (not applicable)
+Tomislav, Panic Attack, Warrior's Spirit, (not applicable)
+Tomislav, Panic Attack, Fists of Steel, (not applicable)
+Tomislav, Panic Attack, Holiday Punch, (not applicable)
+Tomislav, Second Banana, Fists, (not applicable)
+Tomislav, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Second Banana, Killing Gloves of Boxing, (not applicable)
+Tomislav, Second Banana, Eviction Notice, (not applicable)
+Tomislav, Second Banana, Apoco-Fists, (not applicable)
+Tomislav, Second Banana, Bread Bite, (not applicable)
+Tomislav, Second Banana, Warrior's Spirit, (not applicable)
+Tomislav, Second Banana, Fists of Steel, (not applicable)
+Tomislav, Second Banana, Holiday Punch, (not applicable)
+Tomislav, Dalokohs Bar, Fists, (not applicable)
+Tomislav, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Tomislav, Dalokohs Bar, Eviction Notice, (not applicable)
+Tomislav, Dalokohs Bar, Apoco-Fists, (not applicable)
+Tomislav, Dalokohs Bar, Bread Bite, (not applicable)
+Tomislav, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Tomislav, Dalokohs Bar, Fists of Steel, (not applicable)
+Tomislav, Dalokohs Bar, Holiday Punch, (not applicable)
+Tomislav, Sanvich, Fists, (not applicable)
+Tomislav, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Sanvich, Killing Gloves of Boxing, (not applicable)
+Tomislav, Sanvich, Eviction Notice, (not applicable)
+Tomislav, Sanvich, Apoco-Fists, (not applicable)
+Tomislav, Sanvich, Bread Bite, (not applicable)
+Tomislav, Sanvich, Warrior's Spirit, (not applicable)
+Tomislav, Sanvich, Fists of Steel, (not applicable)
+Tomislav, Sanvich, Holiday Punch, (not applicable)
+Tomislav, Robo-Sandvich, Fists, (not applicable)
+Tomislav, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Tomislav, Robo-Sandvich, Eviction Notice, (not applicable)
+Tomislav, Robo-Sandvich, Apoco-Fists, (not applicable)
+Tomislav, Robo-Sandvich, Bread Bite, (not applicable)
+Tomislav, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Tomislav, Robo-Sandvich, Fists of Steel, (not applicable)
+Tomislav, Robo-Sandvich, Holiday Punch, (not applicable)
+Tomislav, Fishcake, Fists, (not applicable)
+Tomislav, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Fishcake, Killing Gloves of Boxing, (not applicable)
+Tomislav, Fishcake, Eviction Notice, (not applicable)
+Tomislav, Fishcake, Apoco-Fists, (not applicable)
+Tomislav, Fishcake, Bread Bite, (not applicable)
+Tomislav, Fishcake, Warrior's Spirit, (not applicable)
+Tomislav, Fishcake, Fists of Steel, (not applicable)
+Tomislav, Fishcake, Holiday Punch, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Fists, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Tomislav, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+Brass Beast, Shogun, Fists, (not applicable)
+Brass Beast, Shogun, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Shogun, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Shogun, Eviction Notice, (not applicable)
+Brass Beast, Shogun, Apoco-Fists, (not applicable)
+Brass Beast, Shogun, Bread Bite, (not applicable)
+Brass Beast, Shogun, Warrior's Spirit, (not applicable)
+Brass Beast, Shogun, Fists of Steel, (not applicable)
+Brass Beast, Shogun, Holiday Punch, (not applicable)
+Brass Beast, Family Business, Fists, (not applicable)
+Brass Beast, Family Business, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Family Business, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Family Business, Eviction Notice, (not applicable)
+Brass Beast, Family Business, Apoco-Fists, (not applicable)
+Brass Beast, Family Business, Bread Bite, (not applicable)
+Brass Beast, Family Business, Warrior's Spirit, (not applicable)
+Brass Beast, Family Business, Fists of Steel, (not applicable)
+Brass Beast, Family Business, Holiday Punch, (not applicable)
+Brass Beast, Panic Attack, Fists, (not applicable)
+Brass Beast, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Panic Attack, Eviction Notice, (not applicable)
+Brass Beast, Panic Attack, Apoco-Fists, (not applicable)
+Brass Beast, Panic Attack, Bread Bite, (not applicable)
+Brass Beast, Panic Attack, Warrior's Spirit, (not applicable)
+Brass Beast, Panic Attack, Fists of Steel, (not applicable)
+Brass Beast, Panic Attack, Holiday Punch, (not applicable)
+Brass Beast, Second Banana, Fists, (not applicable)
+Brass Beast, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Second Banana, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Second Banana, Eviction Notice, (not applicable)
+Brass Beast, Second Banana, Apoco-Fists, (not applicable)
+Brass Beast, Second Banana, Bread Bite, (not applicable)
+Brass Beast, Second Banana, Warrior's Spirit, (not applicable)
+Brass Beast, Second Banana, Fists of Steel, (not applicable)
+Brass Beast, Second Banana, Holiday Punch, (not applicable)
+Brass Beast, Dalokohs Bar, Fists, (not applicable)
+Brass Beast, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Dalokohs Bar, Eviction Notice, (not applicable)
+Brass Beast, Dalokohs Bar, Apoco-Fists, (not applicable)
+Brass Beast, Dalokohs Bar, Bread Bite, (not applicable)
+Brass Beast, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Brass Beast, Dalokohs Bar, Fists of Steel, (not applicable)
+Brass Beast, Dalokohs Bar, Holiday Punch, (not applicable)
+Brass Beast, Sanvich, Fists, (not applicable)
+Brass Beast, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Sanvich, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Sanvich, Eviction Notice, (not applicable)
+Brass Beast, Sanvich, Apoco-Fists, (not applicable)
+Brass Beast, Sanvich, Bread Bite, (not applicable)
+Brass Beast, Sanvich, Warrior's Spirit, (not applicable)
+Brass Beast, Sanvich, Fists of Steel, (not applicable)
+Brass Beast, Sanvich, Holiday Punch, (not applicable)
+Brass Beast, Robo-Sandvich, Fists, (not applicable)
+Brass Beast, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Robo-Sandvich, Eviction Notice, (not applicable)
+Brass Beast, Robo-Sandvich, Apoco-Fists, (not applicable)
+Brass Beast, Robo-Sandvich, Bread Bite, (not applicable)
+Brass Beast, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Brass Beast, Robo-Sandvich, Fists of Steel, (not applicable)
+Brass Beast, Robo-Sandvich, Holiday Punch, (not applicable)
+Brass Beast, Fishcake, Fists, (not applicable)
+Brass Beast, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Fishcake, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Fishcake, Eviction Notice, (not applicable)
+Brass Beast, Fishcake, Apoco-Fists, (not applicable)
+Brass Beast, Fishcake, Bread Bite, (not applicable)
+Brass Beast, Fishcake, Warrior's Spirit, (not applicable)
+Brass Beast, Fishcake, Fists of Steel, (not applicable)
+Brass Beast, Fishcake, Holiday Punch, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Fists, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Brass Beast, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+Huo-Long Heater, Shogun, Fists, (not applicable)
+Huo-Long Heater, Shogun, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Shogun, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Shogun, Eviction Notice, (not applicable)
+Huo-Long Heater, Shogun, Apoco-Fists, (not applicable)
+Huo-Long Heater, Shogun, Bread Bite, (not applicable)
+Huo-Long Heater, Shogun, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Shogun, Fists of Steel, (not applicable)
+Huo-Long Heater, Shogun, Holiday Punch, (not applicable)
+Huo-Long Heater, Family Business, Fists, (not applicable)
+Huo-Long Heater, Family Business, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Family Business, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Family Business, Eviction Notice, (not applicable)
+Huo-Long Heater, Family Business, Apoco-Fists, (not applicable)
+Huo-Long Heater, Family Business, Bread Bite, (not applicable)
+Huo-Long Heater, Family Business, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Family Business, Fists of Steel, (not applicable)
+Huo-Long Heater, Family Business, Holiday Punch, (not applicable)
+Huo-Long Heater, Panic Attack, Fists, (not applicable)
+Huo-Long Heater, Panic Attack, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Panic Attack, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Panic Attack, Eviction Notice, (not applicable)
+Huo-Long Heater, Panic Attack, Apoco-Fists, (not applicable)
+Huo-Long Heater, Panic Attack, Bread Bite, (not applicable)
+Huo-Long Heater, Panic Attack, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Panic Attack, Fists of Steel, (not applicable)
+Huo-Long Heater, Panic Attack, Holiday Punch, (not applicable)
+Huo-Long Heater, Second Banana, Fists, (not applicable)
+Huo-Long Heater, Second Banana, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Second Banana, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Second Banana, Eviction Notice, (not applicable)
+Huo-Long Heater, Second Banana, Apoco-Fists, (not applicable)
+Huo-Long Heater, Second Banana, Bread Bite, (not applicable)
+Huo-Long Heater, Second Banana, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Second Banana, Fists of Steel, (not applicable)
+Huo-Long Heater, Second Banana, Holiday Punch, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Fists, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Eviction Notice, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Apoco-Fists, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Bread Bite, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Fists of Steel, (not applicable)
+Huo-Long Heater, Dalokohs Bar, Holiday Punch, (not applicable)
+Huo-Long Heater, Sanvich, Fists, (not applicable)
+Huo-Long Heater, Sanvich, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Sanvich, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Sanvich, Eviction Notice, (not applicable)
+Huo-Long Heater, Sanvich, Apoco-Fists, (not applicable)
+Huo-Long Heater, Sanvich, Bread Bite, (not applicable)
+Huo-Long Heater, Sanvich, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Sanvich, Fists of Steel, (not applicable)
+Huo-Long Heater, Sanvich, Holiday Punch, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Fists, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Eviction Notice, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Apoco-Fists, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Bread Bite, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Fists of Steel, (not applicable)
+Huo-Long Heater, Robo-Sandvich, Holiday Punch, (not applicable)
+Huo-Long Heater, Fishcake, Fists, (not applicable)
+Huo-Long Heater, Fishcake, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Fishcake, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Fishcake, Eviction Notice, (not applicable)
+Huo-Long Heater, Fishcake, Apoco-Fists, (not applicable)
+Huo-Long Heater, Fishcake, Bread Bite, (not applicable)
+Huo-Long Heater, Fishcake, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Fishcake, Fists of Steel, (not applicable)
+Huo-Long Heater, Fishcake, Holiday Punch, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Fists, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Gloves of Runnings Urgently, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Killing Gloves of Boxing, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Eviction Notice, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Apoco-Fists, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Bread Bite, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Warrior's Spirit, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Fists of Steel, (not applicable)
+Huo-Long Heater, Buffalo Steak Sandvich, Holiday Punch, (not applicable)
+
+ENGINEER
+Shotgun, Giger Counter, Wrench, Construction PDA
+Shotgun, Giger Counter, Gunslinger, Construction PDA
+Shotgun, Giger Counter, Eureka Effect, Construction PDA
+Shotgun, Giger Counter, Jag, Construction PDA
+Shotgun, Giger Counter, Southern Hospitality, Construction PDA
+Shotgun, Wrangler, Wrench, Construction PDA
+Shotgun, Wrangler, Gunslinger, Construction PDA
+Shotgun, Wrangler, Eureka Effect, Construction PDA
+Shotgun, Wrangler, Jag, Construction PDA
+Shotgun, Wrangler, Southern Hospitality, Construction PDA
+Shotgun, Pistol, Wrench, Construction PDA
+Shotgun, Pistol, Gunslinger, Construction PDA
+Shotgun, Pistol, Eureka Effect, Construction PDA
+Shotgun, Pistol, Jag, Construction PDA
+Shotgun, Pistol, Southern Hospitality, Construction PDA
+Shotgun, Short Circuit, Wrench, Construction PDA
+Shotgun, Short Circuit, Gunslinger, Construction PDA
+Shotgun, Short Circuit, Eureka Effect, Construction PDA
+Shotgun, Short Circuit, Jag, Construction PDA
+Shotgun, Short Circuit, Southern Hospitality, Construction PDA
+Panic Attack, Giger Counter, Wrench, Construction PDA
+Panic Attack, Giger Counter, Gunslinger, Construction PDA
+Panic Attack, Giger Counter, Eureka Effect, Construction PDA
+Panic Attack, Giger Counter, Jag, Construction PDA
+Panic Attack, Giger Counter, Southern Hospitality, Construction PDA
+Panic Attack, Wrangler, Wrench, Construction PDA
+Panic Attack, Wrangler, Gunslinger, Construction PDA
+Panic Attack, Wrangler, Eureka Effect, Construction PDA
+Panic Attack, Wrangler, Jag, Construction PDA
+Panic Attack, Wrangler, Southern Hospitality, Construction PDA
+Panic Attack, Pistol, Wrench, Construction PDA
+Panic Attack, Pistol, Gunslinger, Construction PDA
+Panic Attack, Pistol, Eureka Effect, Construction PDA
+Panic Attack, Pistol, Jag, Construction PDA
+Panic Attack, Pistol, Southern Hospitality, Construction PDA
+Panic Attack, Short Circuit, Wrench, Construction PDA
+Panic Attack, Short Circuit, Gunslinger, Construction PDA
+Panic Attack, Short Circuit, Eureka Effect, Construction PDA
+Panic Attack, Short Circuit, Jag, Construction PDA
+Panic Attack, Short Circuit, Southern Hospitality, Construction PDA
+Widowmaker, Giger Counter, Wrench, Construction PDA
+Widowmaker, Giger Counter, Gunslinger, Construction PDA
+Widowmaker, Giger Counter, Eureka Effect, Construction PDA
+Widowmaker, Giger Counter, Jag, Construction PDA
+Widowmaker, Giger Counter, Southern Hospitality, Construction PDA
+Widowmaker, Wrangler, Wrench, Construction PDA
+Widowmaker, Wrangler, Gunslinger, Construction PDA
+Widowmaker, Wrangler, Eureka Effect, Construction PDA
+Widowmaker, Wrangler, Jag, Construction PDA
+Widowmaker, Wrangler, Southern Hospitality, Construction PDA
+Widowmaker, Pistol, Wrench, Construction PDA
+Widowmaker, Pistol, Gunslinger, Construction PDA
+Widowmaker, Pistol, Eureka Effect, Construction PDA
+Widowmaker, Pistol, Jag, Construction PDA
+Widowmaker, Pistol, Southern Hospitality, Construction PDA
+Widowmaker, Short Circuit, Wrench, Construction PDA
+Widowmaker, Short Circuit, Gunslinger, Construction PDA
+Widowmaker, Short Circuit, Eureka Effect, Construction PDA
+Widowmaker, Short Circuit, Jag, Construction PDA
+Widowmaker, Short Circuit, Southern Hospitality, Construction PDA
+Pomson 6000, Giger Counter, Wrench, Construction PDA
+Pomson 6000, Giger Counter, Gunslinger, Construction PDA
+Pomson 6000, Giger Counter, Eureka Effect, Construction PDA
+Pomson 6000, Giger Counter, Jag, Construction PDA
+Pomson 6000, Giger Counter, Southern Hospitality, Construction PDA
+Pomson 6000, Wrangler, Wrench, Construction PDA
+Pomson 6000, Wrangler, Gunslinger, Construction PDA
+Pomson 6000, Wrangler, Eureka Effect, Construction PDA
+Pomson 6000, Wrangler, Jag, Construction PDA
+Pomson 6000, Wrangler, Southern Hospitality, Construction PDA
+Pomson 6000, Pistol, Wrench, Construction PDA
+Pomson 6000, Pistol, Gunslinger, Construction PDA
+Pomson 6000, Pistol, Eureka Effect, Construction PDA
+Pomson 6000, Pistol, Jag, Construction PDA
+Pomson 6000, Pistol, Southern Hospitality, Construction PDA
+Pomson 6000, Short Circuit, Wrench, Construction PDA
+Pomson 6000, Short Circuit, Gunslinger, Construction PDA
+Pomson 6000, Short Circuit, Eureka Effect, Construction PDA
+Pomson 6000, Short Circuit, Jag, Construction PDA
+Pomson 6000, Short Circuit, Southern Hospitality, Construction PDA
+Rescue Ranger, Giger Counter, Wrench, Construction PDA
+Rescue Ranger, Giger Counter, Gunslinger, Construction PDA
+Rescue Ranger, Giger Counter, Eureka Effect, Construction PDA
+Rescue Ranger, Giger Counter, Jag, Construction PDA
+Rescue Ranger, Giger Counter, Southern Hospitality, Construction PDA
+Rescue Ranger, Wrangler, Wrench, Construction PDA
+Rescue Ranger, Wrangler, Gunslinger, Construction PDA
+Rescue Ranger, Wrangler, Eureka Effect, Construction PDA
+Rescue Ranger, Wrangler, Jag, Construction PDA
+Rescue Ranger, Wrangler, Southern Hospitality, Construction PDA
+Rescue Ranger, Pistol, Wrench, Construction PDA
+Rescue Ranger, Pistol, Gunslinger, Construction PDA
+Rescue Ranger, Pistol, Eureka Effect, Construction PDA
+Rescue Ranger, Pistol, Jag, Construction PDA
+Rescue Ranger, Pistol, Southern Hospitality, Construction PDA
+Rescue Ranger, Short Circuit, Wrench, Construction PDA
+Rescue Ranger, Short Circuit, Gunslinger, Construction PDA
+Rescue Ranger, Short Circuit, Eureka Effect, Construction PDA
+Rescue Ranger, Short Circuit, Jag, Construction PDA
+Rescue Ranger, Short Circuit, Southern Hospitality, Construction PDA
+Frontier Justice, Giger Counter, Wrench, Construction PDA
+Frontier Justice, Giger Counter, Gunslinger, Construction PDA
+Frontier Justice, Giger Counter, Eureka Effect, Construction PDA
+Frontier Justice, Giger Counter, Jag, Construction PDA
+Frontier Justice, Giger Counter, Southern Hospitality, Construction PDA
+Frontier Justice, Wrangler, Wrench, Construction PDA
+Frontier Justice, Wrangler, Gunslinger, Construction PDA
+Frontier Justice, Wrangler, Eureka Effect, Construction PDA
+Frontier Justice, Wrangler, Jag, Construction PDA
+Frontier Justice, Wrangler, Southern Hospitality, Construction PDA
+Frontier Justice, Pistol, Wrench, Construction PDA
+Frontier Justice, Pistol, Gunslinger, Construction PDA
+Frontier Justice, Pistol, Eureka Effect, Construction PDA
+Frontier Justice, Pistol, Jag, Construction PDA
+Frontier Justice, Pistol, Southern Hospitality, Construction PDA
+Frontier Justice, Short Circuit, Wrench, Construction PDA
+Frontier Justice, Short Circuit, Gunslinger, Construction PDA
+Frontier Justice, Short Circuit, Eureka Effect, Construction PDA
+Frontier Justice, Short Circuit, Jag, Construction PDA
+Frontier Justice, Short Circuit, Southern Hospitality, Construction PDA
+
+MEDIC
+Syringe Gun, Kritzkrieg, Solemn Vow, (not applicable)
+Syringe Gun, Kritzkrieg, Ubersaw, (not applicable)
+Syringe Gun, Kritzkrieg, Vita-Saw, (not applicable)
+Syringe Gun, Kritzkrieg, Bonesaw, (not applicable)
+Syringe Gun, Kritzkrieg, Amputator, (not applicable)
+Syringe Gun, Quick-Fix, Solemn Vow, (not applicable)
+Syringe Gun, Quick-Fix, Ubersaw, (not applicable)
+Syringe Gun, Quick-Fix, Vita-Saw, (not applicable)
+Syringe Gun, Quick-Fix, Bonesaw, (not applicable)
+Syringe Gun, Quick-Fix, Amputator, (not applicable)
+Syringe Gun, Medi Gun, Solemn Vow, (not applicable)
+Syringe Gun, Medi Gun, Ubersaw, (not applicable)
+Syringe Gun, Medi Gun, Vita-Saw, (not applicable)
+Syringe Gun, Medi Gun, Bonesaw, (not applicable)
+Syringe Gun, Medi Gun, Amputator, (not applicable)
+Syringe Gun, Vaccinator, Solemn Vow, (not applicable)
+Syringe Gun, Vaccinator, Ubersaw, (not applicable)
+Syringe Gun, Vaccinator, Vita-Saw, (not applicable)
+Syringe Gun, Vaccinator, Bonesaw, (not applicable)
+Syringe Gun, Vaccinator, Amputator, (not applicable)
+Blutsauger, Kritzkrieg, Solemn Vow, (not applicable)
+Blutsauger, Kritzkrieg, Ubersaw, (not applicable)
+Blutsauger, Kritzkrieg, Vita-Saw, (not applicable)
+Blutsauger, Kritzkrieg, Bonesaw, (not applicable)
+Blutsauger, Kritzkrieg, Amputator, (not applicable)
+Blutsauger, Quick-Fix, Solemn Vow, (not applicable)
+Blutsauger, Quick-Fix, Ubersaw, (not applicable)
+Blutsauger, Quick-Fix, Vita-Saw, (not applicable)
+Blutsauger, Quick-Fix, Bonesaw, (not applicable)
+Blutsauger, Quick-Fix, Amputator, (not applicable)
+Blutsauger, Medi Gun, Solemn Vow, (not applicable)
+Blutsauger, Medi Gun, Ubersaw, (not applicable)
+Blutsauger, Medi Gun, Vita-Saw, (not applicable)
+Blutsauger, Medi Gun, Bonesaw, (not applicable)
+Blutsauger, Medi Gun, Amputator, (not applicable)
+Blutsauger, Vaccinator, Solemn Vow, (not applicable)
+Blutsauger, Vaccinator, Ubersaw, (not applicable)
+Blutsauger, Vaccinator, Vita-Saw, (not applicable)
+Blutsauger, Vaccinator, Bonesaw, (not applicable)
+Blutsauger, Vaccinator, Amputator, (not applicable)
+Crusader's Crossbow, Kritzkrieg, Solemn Vow, (not applicable)
+Crusader's Crossbow, Kritzkrieg, Ubersaw, (not applicable)
+Crusader's Crossbow, Kritzkrieg, Vita-Saw, (not applicable)
+Crusader's Crossbow, Kritzkrieg, Bonesaw, (not applicable)
+Crusader's Crossbow, Kritzkrieg, Amputator, (not applicable)
+Crusader's Crossbow, Quick-Fix, Solemn Vow, (not applicable)
+Crusader's Crossbow, Quick-Fix, Ubersaw, (not applicable)
+Crusader's Crossbow, Quick-Fix, Vita-Saw, (not applicable)
+Crusader's Crossbow, Quick-Fix, Bonesaw, (not applicable)
+Crusader's Crossbow, Quick-Fix, Amputator, (not applicable)
+Crusader's Crossbow, Medi Gun, Solemn Vow, (not applicable)
+Crusader's Crossbow, Medi Gun, Ubersaw, (not applicable)
+Crusader's Crossbow, Medi Gun, Vita-Saw, (not applicable)
+Crusader's Crossbow, Medi Gun, Bonesaw, (not applicable)
+Crusader's Crossbow, Medi Gun, Amputator, (not applicable)
+Crusader's Crossbow, Vaccinator, Solemn Vow, (not applicable)
+Crusader's Crossbow, Vaccinator, Ubersaw, (not applicable)
+Crusader's Crossbow, Vaccinator, Vita-Saw, (not applicable)
+Crusader's Crossbow, Vaccinator, Bonesaw, (not applicable)
+Crusader's Crossbow, Vaccinator, Amputator, (not applicable)
+Overdose, Kritzkrieg, Solemn Vow, (not applicable)
+Overdose, Kritzkrieg, Ubersaw, (not applicable)
+Overdose, Kritzkrieg, Vita-Saw, (not applicable)
+Overdose, Kritzkrieg, Bonesaw, (not applicable)
+Overdose, Kritzkrieg, Amputator, (not applicable)
+Overdose, Quick-Fix, Solemn Vow, (not applicable)
+Overdose, Quick-Fix, Ubersaw, (not applicable)
+Overdose, Quick-Fix, Vita-Saw, (not applicable)
+Overdose, Quick-Fix, Bonesaw, (not applicable)
+Overdose, Quick-Fix, Amputator, (not applicable)
+Overdose, Medi Gun, Solemn Vow, (not applicable)
+Overdose, Medi Gun, Ubersaw, (not applicable)
+Overdose, Medi Gun, Vita-Saw, (not applicable)
+Overdose, Medi Gun, Bonesaw, (not applicable)
+Overdose, Medi Gun, Amputator, (not applicable)
+Overdose, Vaccinator, Solemn Vow, (not applicable)
+Overdose, Vaccinator, Ubersaw, (not applicable)
+Overdose, Vaccinator, Vita-Saw, (not applicable)
+Overdose, Vaccinator, Bonesaw, (not applicable)
+Overdose, Vaccinator, Amputator, (not applicable)
+
+SNIPER
+Sniper Rifle, SMG, Kukri, (not applicable)
+Sniper Rifle, SMG, Tribalman's Shiv, (not applicable)
+Sniper Rifle, SMG, Bushwacka, (not applicable)
+Sniper Rifle, SMG, Shahanshah, (not applicable)
+Sniper Rifle, Jarate, Kukri, (not applicable)
+Sniper Rifle, Jarate, Tribalman's Shiv, (not applicable)
+Sniper Rifle, Jarate, Bushwacka, (not applicable)
+Sniper Rifle, Jarate, Shahanshah, (not applicable)
+Sniper Rifle, Razorback, Kukri, (not applicable)
+Sniper Rifle, Razorback, Tribalman's Shiv, (not applicable)
+Sniper Rifle, Razorback, Bushwacka, (not applicable)
+Sniper Rifle, Razorback, Shahanshah, (not applicable)
+Sniper Rifle, Darwin's Danger Shield, Kukri, (not applicable)
+Sniper Rifle, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Sniper Rifle, Darwin's Danger Shield, Bushwacka, (not applicable)
+Sniper Rifle, Darwin's Danger Shield, Shahanshah, (not applicable)
+Sniper Rifle, Cozy Camper, Kukri, (not applicable)
+Sniper Rifle, Cozy Camper, Tribalman's Shiv, (not applicable)
+Sniper Rifle, Cozy Camper, Bushwacka, (not applicable)
+Sniper Rifle, Cozy Camper, Shahanshah, (not applicable)
+Sniper Rifle, Cleaner's Carbine, Kukri, (not applicable)
+Sniper Rifle, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Sniper Rifle, Cleaner's Carbine, Bushwacka, (not applicable)
+Sniper Rifle, Cleaner's Carbine, Shahanshah, (not applicable)
+Machina, SMG, Kukri, (not applicable)
+Machina, SMG, Tribalman's Shiv, (not applicable)
+Machina, SMG, Bushwacka, (not applicable)
+Machina, SMG, Shahanshah, (not applicable)
+Machina, Jarate, Kukri, (not applicable)
+Machina, Jarate, Tribalman's Shiv, (not applicable)
+Machina, Jarate, Bushwacka, (not applicable)
+Machina, Jarate, Shahanshah, (not applicable)
+Machina, Razorback, Kukri, (not applicable)
+Machina, Razorback, Tribalman's Shiv, (not applicable)
+Machina, Razorback, Bushwacka, (not applicable)
+Machina, Razorback, Shahanshah, (not applicable)
+Machina, Darwin's Danger Shield, Kukri, (not applicable)
+Machina, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Machina, Darwin's Danger Shield, Bushwacka, (not applicable)
+Machina, Darwin's Danger Shield, Shahanshah, (not applicable)
+Machina, Cozy Camper, Kukri, (not applicable)
+Machina, Cozy Camper, Tribalman's Shiv, (not applicable)
+Machina, Cozy Camper, Bushwacka, (not applicable)
+Machina, Cozy Camper, Shahanshah, (not applicable)
+Machina, Cleaner's Carbine, Kukri, (not applicable)
+Machina, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Machina, Cleaner's Carbine, Bushwacka, (not applicable)
+Machina, Cleaner's Carbine, Shahanshah, (not applicable)
+Classic, SMG, Kukri, (not applicable)
+Classic, SMG, Tribalman's Shiv, (not applicable)
+Classic, SMG, Bushwacka, (not applicable)
+Classic, SMG, Shahanshah, (not applicable)
+Classic, Jarate, Kukri, (not applicable)
+Classic, Jarate, Tribalman's Shiv, (not applicable)
+Classic, Jarate, Bushwacka, (not applicable)
+Classic, Jarate, Shahanshah, (not applicable)
+Classic, Razorback, Kukri, (not applicable)
+Classic, Razorback, Tribalman's Shiv, (not applicable)
+Classic, Razorback, Bushwacka, (not applicable)
+Classic, Razorback, Shahanshah, (not applicable)
+Classic, Darwin's Danger Shield, Kukri, (not applicable)
+Classic, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Classic, Darwin's Danger Shield, Bushwacka, (not applicable)
+Classic, Darwin's Danger Shield, Shahanshah, (not applicable)
+Classic, Cozy Camper, Kukri, (not applicable)
+Classic, Cozy Camper, Tribalman's Shiv, (not applicable)
+Classic, Cozy Camper, Bushwacka, (not applicable)
+Classic, Cozy Camper, Shahanshah, (not applicable)
+Classic, Cleaner's Carbine, Kukri, (not applicable)
+Classic, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Classic, Cleaner's Carbine, Bushwacka, (not applicable)
+Classic, Cleaner's Carbine, Shahanshah, (not applicable)
+Huntsman, SMG, Kukri, (not applicable)
+Huntsman, SMG, Tribalman's Shiv, (not applicable)
+Huntsman, SMG, Bushwacka, (not applicable)
+Huntsman, SMG, Shahanshah, (not applicable)
+Huntsman, Jarate, Kukri, (not applicable)
+Huntsman, Jarate, Tribalman's Shiv, (not applicable)
+Huntsman, Jarate, Bushwacka, (not applicable)
+Huntsman, Jarate, Shahanshah, (not applicable)
+Huntsman, Razorback, Kukri, (not applicable)
+Huntsman, Razorback, Tribalman's Shiv, (not applicable)
+Huntsman, Razorback, Bushwacka, (not applicable)
+Huntsman, Razorback, Shahanshah, (not applicable)
+Huntsman, Darwin's Danger Shield, Kukri, (not applicable)
+Huntsman, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Huntsman, Darwin's Danger Shield, Bushwacka, (not applicable)
+Huntsman, Darwin's Danger Shield, Shahanshah, (not applicable)
+Huntsman, Cozy Camper, Kukri, (not applicable)
+Huntsman, Cozy Camper, Tribalman's Shiv, (not applicable)
+Huntsman, Cozy Camper, Bushwacka, (not applicable)
+Huntsman, Cozy Camper, Shahanshah, (not applicable)
+Huntsman, Cleaner's Carbine, Kukri, (not applicable)
+Huntsman, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Huntsman, Cleaner's Carbine, Bushwacka, (not applicable)
+Huntsman, Cleaner's Carbine, Shahanshah, (not applicable)
+Sydney Sleeper, SMG, Kukri, (not applicable)
+Sydney Sleeper, SMG, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, SMG, Bushwacka, (not applicable)
+Sydney Sleeper, SMG, Shahanshah, (not applicable)
+Sydney Sleeper, Jarate, Kukri, (not applicable)
+Sydney Sleeper, Jarate, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, Jarate, Bushwacka, (not applicable)
+Sydney Sleeper, Jarate, Shahanshah, (not applicable)
+Sydney Sleeper, Razorback, Kukri, (not applicable)
+Sydney Sleeper, Razorback, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, Razorback, Bushwacka, (not applicable)
+Sydney Sleeper, Razorback, Shahanshah, (not applicable)
+Sydney Sleeper, Darwin's Danger Shield, Kukri, (not applicable)
+Sydney Sleeper, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, Darwin's Danger Shield, Bushwacka, (not applicable)
+Sydney Sleeper, Darwin's Danger Shield, Shahanshah, (not applicable)
+Sydney Sleeper, Cozy Camper, Kukri, (not applicable)
+Sydney Sleeper, Cozy Camper, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, Cozy Camper, Bushwacka, (not applicable)
+Sydney Sleeper, Cozy Camper, Shahanshah, (not applicable)
+Sydney Sleeper, Cleaner's Carbine, Kukri, (not applicable)
+Sydney Sleeper, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Sydney Sleeper, Cleaner's Carbine, Bushwacka, (not applicable)
+Sydney Sleeper, Cleaner's Carbine, Shahanshah, (not applicable)
+Shooting Star, SMG, Kukri, (not applicable)
+Shooting Star, SMG, Tribalman's Shiv, (not applicable)
+Shooting Star, SMG, Bushwacka, (not applicable)
+Shooting Star, SMG, Shahanshah, (not applicable)
+Shooting Star, Jarate, Kukri, (not applicable)
+Shooting Star, Jarate, Tribalman's Shiv, (not applicable)
+Shooting Star, Jarate, Bushwacka, (not applicable)
+Shooting Star, Jarate, Shahanshah, (not applicable)
+Shooting Star, Razorback, Kukri, (not applicable)
+Shooting Star, Razorback, Tribalman's Shiv, (not applicable)
+Shooting Star, Razorback, Bushwacka, (not applicable)
+Shooting Star, Razorback, Shahanshah, (not applicable)
+Shooting Star, Darwin's Danger Shield, Kukri, (not applicable)
+Shooting Star, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Shooting Star, Darwin's Danger Shield, Bushwacka, (not applicable)
+Shooting Star, Darwin's Danger Shield, Shahanshah, (not applicable)
+Shooting Star, Cozy Camper, Kukri, (not applicable)
+Shooting Star, Cozy Camper, Tribalman's Shiv, (not applicable)
+Shooting Star, Cozy Camper, Bushwacka, (not applicable)
+Shooting Star, Cozy Camper, Shahanshah, (not applicable)
+Shooting Star, Cleaner's Carbine, Kukri, (not applicable)
+Shooting Star, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Shooting Star, Cleaner's Carbine, Bushwacka, (not applicable)
+Shooting Star, Cleaner's Carbine, Shahanshah, (not applicable)
+Bazaar Bargain, SMG, Kukri, (not applicable)
+Bazaar Bargain, SMG, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, SMG, Bushwacka, (not applicable)
+Bazaar Bargain, SMG, Shahanshah, (not applicable)
+Bazaar Bargain, Jarate, Kukri, (not applicable)
+Bazaar Bargain, Jarate, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, Jarate, Bushwacka, (not applicable)
+Bazaar Bargain, Jarate, Shahanshah, (not applicable)
+Bazaar Bargain, Razorback, Kukri, (not applicable)
+Bazaar Bargain, Razorback, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, Razorback, Bushwacka, (not applicable)
+Bazaar Bargain, Razorback, Shahanshah, (not applicable)
+Bazaar Bargain, Darwin's Danger Shield, Kukri, (not applicable)
+Bazaar Bargain, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, Darwin's Danger Shield, Bushwacka, (not applicable)
+Bazaar Bargain, Darwin's Danger Shield, Shahanshah, (not applicable)
+Bazaar Bargain, Cozy Camper, Kukri, (not applicable)
+Bazaar Bargain, Cozy Camper, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, Cozy Camper, Bushwacka, (not applicable)
+Bazaar Bargain, Cozy Camper, Shahanshah, (not applicable)
+Bazaar Bargain, Cleaner's Carbine, Kukri, (not applicable)
+Bazaar Bargain, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Bazaar Bargain, Cleaner's Carbine, Bushwacka, (not applicable)
+Bazaar Bargain, Cleaner's Carbine, Shahanshah, (not applicable)
+Hitman's Heatmaker, SMG, Kukri, (not applicable)
+Hitman's Heatmaker, SMG, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, SMG, Bushwacka, (not applicable)
+Hitman's Heatmaker, SMG, Shahanshah, (not applicable)
+Hitman's Heatmaker, Jarate, Kukri, (not applicable)
+Hitman's Heatmaker, Jarate, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, Jarate, Bushwacka, (not applicable)
+Hitman's Heatmaker, Jarate, Shahanshah, (not applicable)
+Hitman's Heatmaker, Razorback, Kukri, (not applicable)
+Hitman's Heatmaker, Razorback, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, Razorback, Bushwacka, (not applicable)
+Hitman's Heatmaker, Razorback, Shahanshah, (not applicable)
+Hitman's Heatmaker, Darwin's Danger Shield, Kukri, (not applicable)
+Hitman's Heatmaker, Darwin's Danger Shield, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, Darwin's Danger Shield, Bushwacka, (not applicable)
+Hitman's Heatmaker, Darwin's Danger Shield, Shahanshah, (not applicable)
+Hitman's Heatmaker, Cozy Camper, Kukri, (not applicable)
+Hitman's Heatmaker, Cozy Camper, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, Cozy Camper, Bushwacka, (not applicable)
+Hitman's Heatmaker, Cozy Camper, Shahanshah, (not applicable)
+Hitman's Heatmaker, Cleaner's Carbine, Kukri, (not applicable)
+Hitman's Heatmaker, Cleaner's Carbine, Tribalman's Shiv, (not applicable)
+Hitman's Heatmaker, Cleaner's Carbine, Bushwacka, (not applicable)
+Hitman's Heatmaker, Cleaner's Carbine, Shahanshah, (not applicable)
+
+SPY
+Ambassador, Sapper, Knife, Invis Watch
+Ambassador, Sapper, Knife, Enthusiast's Timepiece
+Ambassador, Sapper, Knife, Quackenbirdt
+Ambassador, Sapper, Knife, Cloak and Dagger
+Ambassador, Sapper, Knife, Dead Ringer
+Ambassador, Sapper, Your Eternal Reward, Invis Watch
+Ambassador, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+Ambassador, Sapper, Your Eternal Reward, Quackenbirdt
+Ambassador, Sapper, Your Eternal Reward, Cloak and Dagger
+Ambassador, Sapper, Your Eternal Reward, Dead Ringer
+Ambassador, Sapper, Big Earner, Invis Watch
+Ambassador, Sapper, Big Earner, Enthusiast's Timepiece
+Ambassador, Sapper, Big Earner, Quackenbirdt
+Ambassador, Sapper, Big Earner, Cloak and Dagger
+Ambassador, Sapper, Big Earner, Dead Ringer
+Ambassador, Sapper, Conniver's Kunai, Invis Watch
+Ambassador, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+Ambassador, Sapper, Conniver's Kunai, Quackenbirdt
+Ambassador, Sapper, Conniver's Kunai, Cloak and Dagger
+Ambassador, Sapper, Conniver's Kunai, Dead Ringer
+Ambassador, Sapper, Spy-cicle, Invis Watch
+Ambassador, Sapper, Spy-cicle, Enthusiast's Timepiece
+Ambassador, Sapper, Spy-cicle, Quackenbirdt
+Ambassador, Sapper, Spy-cicle, Cloak and Dagger
+Ambassador, Sapper, Spy-cicle, Dead Ringer
+Ambassador, Red-Tape Recorder, Knife, Invis Watch
+Ambassador, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+Ambassador, Red-Tape Recorder, Knife, Quackenbirdt
+Ambassador, Red-Tape Recorder, Knife, Cloak and Dagger
+Ambassador, Red-Tape Recorder, Knife, Dead Ringer
+Ambassador, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+Ambassador, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+Ambassador, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+Ambassador, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+Ambassador, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+Ambassador, Red-Tape Recorder, Big Earner, Invis Watch
+Ambassador, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+Ambassador, Red-Tape Recorder, Big Earner, Quackenbirdt
+Ambassador, Red-Tape Recorder, Big Earner, Cloak and Dagger
+Ambassador, Red-Tape Recorder, Big Earner, Dead Ringer
+Ambassador, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+Ambassador, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+Ambassador, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+Ambassador, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+Ambassador, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+Ambassador, Red-Tape Recorder, Spy-cicle, Invis Watch
+Ambassador, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+Ambassador, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+Ambassador, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+Ambassador, Red-Tape Recorder, Spy-cicle, Dead Ringer
+Ambassador, Snack Attack, Knife, Invis Watch
+Ambassador, Snack Attack, Knife, Enthusiast's Timepiece
+Ambassador, Snack Attack, Knife, Quackenbirdt
+Ambassador, Snack Attack, Knife, Cloak and Dagger
+Ambassador, Snack Attack, Knife, Dead Ringer
+Ambassador, Snack Attack, Your Eternal Reward, Invis Watch
+Ambassador, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+Ambassador, Snack Attack, Your Eternal Reward, Quackenbirdt
+Ambassador, Snack Attack, Your Eternal Reward, Cloak and Dagger
+Ambassador, Snack Attack, Your Eternal Reward, Dead Ringer
+Ambassador, Snack Attack, Big Earner, Invis Watch
+Ambassador, Snack Attack, Big Earner, Enthusiast's Timepiece
+Ambassador, Snack Attack, Big Earner, Quackenbirdt
+Ambassador, Snack Attack, Big Earner, Cloak and Dagger
+Ambassador, Snack Attack, Big Earner, Dead Ringer
+Ambassador, Snack Attack, Conniver's Kunai, Invis Watch
+Ambassador, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+Ambassador, Snack Attack, Conniver's Kunai, Quackenbirdt
+Ambassador, Snack Attack, Conniver's Kunai, Cloak and Dagger
+Ambassador, Snack Attack, Conniver's Kunai, Dead Ringer
+Ambassador, Snack Attack, Spy-cicle, Invis Watch
+Ambassador, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+Ambassador, Snack Attack, Spy-cicle, Quackenbirdt
+Ambassador, Snack Attack, Spy-cicle, Cloak and Dagger
+Ambassador, Snack Attack, Spy-cicle, Dead Ringer
+Ambassador, Ap-Sap, Knife, Invis Watch
+Ambassador, Ap-Sap, Knife, Enthusiast's Timepiece
+Ambassador, Ap-Sap, Knife, Quackenbirdt
+Ambassador, Ap-Sap, Knife, Cloak and Dagger
+Ambassador, Ap-Sap, Knife, Dead Ringer
+Ambassador, Ap-Sap, Your Eternal Reward, Invis Watch
+Ambassador, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+Ambassador, Ap-Sap, Your Eternal Reward, Quackenbirdt
+Ambassador, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+Ambassador, Ap-Sap, Your Eternal Reward, Dead Ringer
+Ambassador, Ap-Sap, Big Earner, Invis Watch
+Ambassador, Ap-Sap, Big Earner, Enthusiast's Timepiece
+Ambassador, Ap-Sap, Big Earner, Quackenbirdt
+Ambassador, Ap-Sap, Big Earner, Cloak and Dagger
+Ambassador, Ap-Sap, Big Earner, Dead Ringer
+Ambassador, Ap-Sap, Conniver's Kunai, Invis Watch
+Ambassador, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+Ambassador, Ap-Sap, Conniver's Kunai, Quackenbirdt
+Ambassador, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+Ambassador, Ap-Sap, Conniver's Kunai, Dead Ringer
+Ambassador, Ap-Sap, Spy-cicle, Invis Watch
+Ambassador, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+Ambassador, Ap-Sap, Spy-cicle, Quackenbirdt
+Ambassador, Ap-Sap, Spy-cicle, Cloak and Dagger
+Ambassador, Ap-Sap, Spy-cicle, Dead Ringer
+Revolver, Sapper, Knife, Invis Watch
+Revolver, Sapper, Knife, Enthusiast's Timepiece
+Revolver, Sapper, Knife, Quackenbirdt
+Revolver, Sapper, Knife, Cloak and Dagger
+Revolver, Sapper, Knife, Dead Ringer
+Revolver, Sapper, Your Eternal Reward, Invis Watch
+Revolver, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+Revolver, Sapper, Your Eternal Reward, Quackenbirdt
+Revolver, Sapper, Your Eternal Reward, Cloak and Dagger
+Revolver, Sapper, Your Eternal Reward, Dead Ringer
+Revolver, Sapper, Big Earner, Invis Watch
+Revolver, Sapper, Big Earner, Enthusiast's Timepiece
+Revolver, Sapper, Big Earner, Quackenbirdt
+Revolver, Sapper, Big Earner, Cloak and Dagger
+Revolver, Sapper, Big Earner, Dead Ringer
+Revolver, Sapper, Conniver's Kunai, Invis Watch
+Revolver, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+Revolver, Sapper, Conniver's Kunai, Quackenbirdt
+Revolver, Sapper, Conniver's Kunai, Cloak and Dagger
+Revolver, Sapper, Conniver's Kunai, Dead Ringer
+Revolver, Sapper, Spy-cicle, Invis Watch
+Revolver, Sapper, Spy-cicle, Enthusiast's Timepiece
+Revolver, Sapper, Spy-cicle, Quackenbirdt
+Revolver, Sapper, Spy-cicle, Cloak and Dagger
+Revolver, Sapper, Spy-cicle, Dead Ringer
+Revolver, Red-Tape Recorder, Knife, Invis Watch
+Revolver, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+Revolver, Red-Tape Recorder, Knife, Quackenbirdt
+Revolver, Red-Tape Recorder, Knife, Cloak and Dagger
+Revolver, Red-Tape Recorder, Knife, Dead Ringer
+Revolver, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+Revolver, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+Revolver, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+Revolver, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+Revolver, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+Revolver, Red-Tape Recorder, Big Earner, Invis Watch
+Revolver, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+Revolver, Red-Tape Recorder, Big Earner, Quackenbirdt
+Revolver, Red-Tape Recorder, Big Earner, Cloak and Dagger
+Revolver, Red-Tape Recorder, Big Earner, Dead Ringer
+Revolver, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+Revolver, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+Revolver, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+Revolver, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+Revolver, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+Revolver, Red-Tape Recorder, Spy-cicle, Invis Watch
+Revolver, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+Revolver, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+Revolver, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+Revolver, Red-Tape Recorder, Spy-cicle, Dead Ringer
+Revolver, Snack Attack, Knife, Invis Watch
+Revolver, Snack Attack, Knife, Enthusiast's Timepiece
+Revolver, Snack Attack, Knife, Quackenbirdt
+Revolver, Snack Attack, Knife, Cloak and Dagger
+Revolver, Snack Attack, Knife, Dead Ringer
+Revolver, Snack Attack, Your Eternal Reward, Invis Watch
+Revolver, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+Revolver, Snack Attack, Your Eternal Reward, Quackenbirdt
+Revolver, Snack Attack, Your Eternal Reward, Cloak and Dagger
+Revolver, Snack Attack, Your Eternal Reward, Dead Ringer
+Revolver, Snack Attack, Big Earner, Invis Watch
+Revolver, Snack Attack, Big Earner, Enthusiast's Timepiece
+Revolver, Snack Attack, Big Earner, Quackenbirdt
+Revolver, Snack Attack, Big Earner, Cloak and Dagger
+Revolver, Snack Attack, Big Earner, Dead Ringer
+Revolver, Snack Attack, Conniver's Kunai, Invis Watch
+Revolver, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+Revolver, Snack Attack, Conniver's Kunai, Quackenbirdt
+Revolver, Snack Attack, Conniver's Kunai, Cloak and Dagger
+Revolver, Snack Attack, Conniver's Kunai, Dead Ringer
+Revolver, Snack Attack, Spy-cicle, Invis Watch
+Revolver, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+Revolver, Snack Attack, Spy-cicle, Quackenbirdt
+Revolver, Snack Attack, Spy-cicle, Cloak and Dagger
+Revolver, Snack Attack, Spy-cicle, Dead Ringer
+Revolver, Ap-Sap, Knife, Invis Watch
+Revolver, Ap-Sap, Knife, Enthusiast's Timepiece
+Revolver, Ap-Sap, Knife, Quackenbirdt
+Revolver, Ap-Sap, Knife, Cloak and Dagger
+Revolver, Ap-Sap, Knife, Dead Ringer
+Revolver, Ap-Sap, Your Eternal Reward, Invis Watch
+Revolver, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+Revolver, Ap-Sap, Your Eternal Reward, Quackenbirdt
+Revolver, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+Revolver, Ap-Sap, Your Eternal Reward, Dead Ringer
+Revolver, Ap-Sap, Big Earner, Invis Watch
+Revolver, Ap-Sap, Big Earner, Enthusiast's Timepiece
+Revolver, Ap-Sap, Big Earner, Quackenbirdt
+Revolver, Ap-Sap, Big Earner, Cloak and Dagger
+Revolver, Ap-Sap, Big Earner, Dead Ringer
+Revolver, Ap-Sap, Conniver's Kunai, Invis Watch
+Revolver, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+Revolver, Ap-Sap, Conniver's Kunai, Quackenbirdt
+Revolver, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+Revolver, Ap-Sap, Conniver's Kunai, Dead Ringer
+Revolver, Ap-Sap, Spy-cicle, Invis Watch
+Revolver, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+Revolver, Ap-Sap, Spy-cicle, Quackenbirdt
+Revolver, Ap-Sap, Spy-cicle, Cloak and Dagger
+Revolver, Ap-Sap, Spy-cicle, Dead Ringer
+Enforcer, Sapper, Knife, Invis Watch
+Enforcer, Sapper, Knife, Enthusiast's Timepiece
+Enforcer, Sapper, Knife, Quackenbirdt
+Enforcer, Sapper, Knife, Cloak and Dagger
+Enforcer, Sapper, Knife, Dead Ringer
+Enforcer, Sapper, Your Eternal Reward, Invis Watch
+Enforcer, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+Enforcer, Sapper, Your Eternal Reward, Quackenbirdt
+Enforcer, Sapper, Your Eternal Reward, Cloak and Dagger
+Enforcer, Sapper, Your Eternal Reward, Dead Ringer
+Enforcer, Sapper, Big Earner, Invis Watch
+Enforcer, Sapper, Big Earner, Enthusiast's Timepiece
+Enforcer, Sapper, Big Earner, Quackenbirdt
+Enforcer, Sapper, Big Earner, Cloak and Dagger
+Enforcer, Sapper, Big Earner, Dead Ringer
+Enforcer, Sapper, Conniver's Kunai, Invis Watch
+Enforcer, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+Enforcer, Sapper, Conniver's Kunai, Quackenbirdt
+Enforcer, Sapper, Conniver's Kunai, Cloak and Dagger
+Enforcer, Sapper, Conniver's Kunai, Dead Ringer
+Enforcer, Sapper, Spy-cicle, Invis Watch
+Enforcer, Sapper, Spy-cicle, Enthusiast's Timepiece
+Enforcer, Sapper, Spy-cicle, Quackenbirdt
+Enforcer, Sapper, Spy-cicle, Cloak and Dagger
+Enforcer, Sapper, Spy-cicle, Dead Ringer
+Enforcer, Red-Tape Recorder, Knife, Invis Watch
+Enforcer, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+Enforcer, Red-Tape Recorder, Knife, Quackenbirdt
+Enforcer, Red-Tape Recorder, Knife, Cloak and Dagger
+Enforcer, Red-Tape Recorder, Knife, Dead Ringer
+Enforcer, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+Enforcer, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+Enforcer, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+Enforcer, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+Enforcer, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+Enforcer, Red-Tape Recorder, Big Earner, Invis Watch
+Enforcer, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+Enforcer, Red-Tape Recorder, Big Earner, Quackenbirdt
+Enforcer, Red-Tape Recorder, Big Earner, Cloak and Dagger
+Enforcer, Red-Tape Recorder, Big Earner, Dead Ringer
+Enforcer, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+Enforcer, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+Enforcer, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+Enforcer, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+Enforcer, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+Enforcer, Red-Tape Recorder, Spy-cicle, Invis Watch
+Enforcer, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+Enforcer, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+Enforcer, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+Enforcer, Red-Tape Recorder, Spy-cicle, Dead Ringer
+Enforcer, Snack Attack, Knife, Invis Watch
+Enforcer, Snack Attack, Knife, Enthusiast's Timepiece
+Enforcer, Snack Attack, Knife, Quackenbirdt
+Enforcer, Snack Attack, Knife, Cloak and Dagger
+Enforcer, Snack Attack, Knife, Dead Ringer
+Enforcer, Snack Attack, Your Eternal Reward, Invis Watch
+Enforcer, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+Enforcer, Snack Attack, Your Eternal Reward, Quackenbirdt
+Enforcer, Snack Attack, Your Eternal Reward, Cloak and Dagger
+Enforcer, Snack Attack, Your Eternal Reward, Dead Ringer
+Enforcer, Snack Attack, Big Earner, Invis Watch
+Enforcer, Snack Attack, Big Earner, Enthusiast's Timepiece
+Enforcer, Snack Attack, Big Earner, Quackenbirdt
+Enforcer, Snack Attack, Big Earner, Cloak and Dagger
+Enforcer, Snack Attack, Big Earner, Dead Ringer
+Enforcer, Snack Attack, Conniver's Kunai, Invis Watch
+Enforcer, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+Enforcer, Snack Attack, Conniver's Kunai, Quackenbirdt
+Enforcer, Snack Attack, Conniver's Kunai, Cloak and Dagger
+Enforcer, Snack Attack, Conniver's Kunai, Dead Ringer
+Enforcer, Snack Attack, Spy-cicle, Invis Watch
+Enforcer, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+Enforcer, Snack Attack, Spy-cicle, Quackenbirdt
+Enforcer, Snack Attack, Spy-cicle, Cloak and Dagger
+Enforcer, Snack Attack, Spy-cicle, Dead Ringer
+Enforcer, Ap-Sap, Knife, Invis Watch
+Enforcer, Ap-Sap, Knife, Enthusiast's Timepiece
+Enforcer, Ap-Sap, Knife, Quackenbirdt
+Enforcer, Ap-Sap, Knife, Cloak and Dagger
+Enforcer, Ap-Sap, Knife, Dead Ringer
+Enforcer, Ap-Sap, Your Eternal Reward, Invis Watch
+Enforcer, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+Enforcer, Ap-Sap, Your Eternal Reward, Quackenbirdt
+Enforcer, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+Enforcer, Ap-Sap, Your Eternal Reward, Dead Ringer
+Enforcer, Ap-Sap, Big Earner, Invis Watch
+Enforcer, Ap-Sap, Big Earner, Enthusiast's Timepiece
+Enforcer, Ap-Sap, Big Earner, Quackenbirdt
+Enforcer, Ap-Sap, Big Earner, Cloak and Dagger
+Enforcer, Ap-Sap, Big Earner, Dead Ringer
+Enforcer, Ap-Sap, Conniver's Kunai, Invis Watch
+Enforcer, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+Enforcer, Ap-Sap, Conniver's Kunai, Quackenbirdt
+Enforcer, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+Enforcer, Ap-Sap, Conniver's Kunai, Dead Ringer
+Enforcer, Ap-Sap, Spy-cicle, Invis Watch
+Enforcer, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+Enforcer, Ap-Sap, Spy-cicle, Quackenbirdt
+Enforcer, Ap-Sap, Spy-cicle, Cloak and Dagger
+Enforcer, Ap-Sap, Spy-cicle, Dead Ringer
+Diamondback, Sapper, Knife, Invis Watch
+Diamondback, Sapper, Knife, Enthusiast's Timepiece
+Diamondback, Sapper, Knife, Quackenbirdt
+Diamondback, Sapper, Knife, Cloak and Dagger
+Diamondback, Sapper, Knife, Dead Ringer
+Diamondback, Sapper, Your Eternal Reward, Invis Watch
+Diamondback, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+Diamondback, Sapper, Your Eternal Reward, Quackenbirdt
+Diamondback, Sapper, Your Eternal Reward, Cloak and Dagger
+Diamondback, Sapper, Your Eternal Reward, Dead Ringer
+Diamondback, Sapper, Big Earner, Invis Watch
+Diamondback, Sapper, Big Earner, Enthusiast's Timepiece
+Diamondback, Sapper, Big Earner, Quackenbirdt
+Diamondback, Sapper, Big Earner, Cloak and Dagger
+Diamondback, Sapper, Big Earner, Dead Ringer
+Diamondback, Sapper, Conniver's Kunai, Invis Watch
+Diamondback, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+Diamondback, Sapper, Conniver's Kunai, Quackenbirdt
+Diamondback, Sapper, Conniver's Kunai, Cloak and Dagger
+Diamondback, Sapper, Conniver's Kunai, Dead Ringer
+Diamondback, Sapper, Spy-cicle, Invis Watch
+Diamondback, Sapper, Spy-cicle, Enthusiast's Timepiece
+Diamondback, Sapper, Spy-cicle, Quackenbirdt
+Diamondback, Sapper, Spy-cicle, Cloak and Dagger
+Diamondback, Sapper, Spy-cicle, Dead Ringer
+Diamondback, Red-Tape Recorder, Knife, Invis Watch
+Diamondback, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+Diamondback, Red-Tape Recorder, Knife, Quackenbirdt
+Diamondback, Red-Tape Recorder, Knife, Cloak and Dagger
+Diamondback, Red-Tape Recorder, Knife, Dead Ringer
+Diamondback, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+Diamondback, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+Diamondback, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+Diamondback, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+Diamondback, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+Diamondback, Red-Tape Recorder, Big Earner, Invis Watch
+Diamondback, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+Diamondback, Red-Tape Recorder, Big Earner, Quackenbirdt
+Diamondback, Red-Tape Recorder, Big Earner, Cloak and Dagger
+Diamondback, Red-Tape Recorder, Big Earner, Dead Ringer
+Diamondback, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+Diamondback, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+Diamondback, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+Diamondback, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+Diamondback, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+Diamondback, Red-Tape Recorder, Spy-cicle, Invis Watch
+Diamondback, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+Diamondback, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+Diamondback, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+Diamondback, Red-Tape Recorder, Spy-cicle, Dead Ringer
+Diamondback, Snack Attack, Knife, Invis Watch
+Diamondback, Snack Attack, Knife, Enthusiast's Timepiece
+Diamondback, Snack Attack, Knife, Quackenbirdt
+Diamondback, Snack Attack, Knife, Cloak and Dagger
+Diamondback, Snack Attack, Knife, Dead Ringer
+Diamondback, Snack Attack, Your Eternal Reward, Invis Watch
+Diamondback, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+Diamondback, Snack Attack, Your Eternal Reward, Quackenbirdt
+Diamondback, Snack Attack, Your Eternal Reward, Cloak and Dagger
+Diamondback, Snack Attack, Your Eternal Reward, Dead Ringer
+Diamondback, Snack Attack, Big Earner, Invis Watch
+Diamondback, Snack Attack, Big Earner, Enthusiast's Timepiece
+Diamondback, Snack Attack, Big Earner, Quackenbirdt
+Diamondback, Snack Attack, Big Earner, Cloak and Dagger
+Diamondback, Snack Attack, Big Earner, Dead Ringer
+Diamondback, Snack Attack, Conniver's Kunai, Invis Watch
+Diamondback, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+Diamondback, Snack Attack, Conniver's Kunai, Quackenbirdt
+Diamondback, Snack Attack, Conniver's Kunai, Cloak and Dagger
+Diamondback, Snack Attack, Conniver's Kunai, Dead Ringer
+Diamondback, Snack Attack, Spy-cicle, Invis Watch
+Diamondback, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+Diamondback, Snack Attack, Spy-cicle, Quackenbirdt
+Diamondback, Snack Attack, Spy-cicle, Cloak and Dagger
+Diamondback, Snack Attack, Spy-cicle, Dead Ringer
+Diamondback, Ap-Sap, Knife, Invis Watch
+Diamondback, Ap-Sap, Knife, Enthusiast's Timepiece
+Diamondback, Ap-Sap, Knife, Quackenbirdt
+Diamondback, Ap-Sap, Knife, Cloak and Dagger
+Diamondback, Ap-Sap, Knife, Dead Ringer
+Diamondback, Ap-Sap, Your Eternal Reward, Invis Watch
+Diamondback, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+Diamondback, Ap-Sap, Your Eternal Reward, Quackenbirdt
+Diamondback, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+Diamondback, Ap-Sap, Your Eternal Reward, Dead Ringer
+Diamondback, Ap-Sap, Big Earner, Invis Watch
+Diamondback, Ap-Sap, Big Earner, Enthusiast's Timepiece
+Diamondback, Ap-Sap, Big Earner, Quackenbirdt
+Diamondback, Ap-Sap, Big Earner, Cloak and Dagger
+Diamondback, Ap-Sap, Big Earner, Dead Ringer
+Diamondback, Ap-Sap, Conniver's Kunai, Invis Watch
+Diamondback, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+Diamondback, Ap-Sap, Conniver's Kunai, Quackenbirdt
+Diamondback, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+Diamondback, Ap-Sap, Conniver's Kunai, Dead Ringer
+Diamondback, Ap-Sap, Spy-cicle, Invis Watch
+Diamondback, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+Diamondback, Ap-Sap, Spy-cicle, Quackenbirdt
+Diamondback, Ap-Sap, Spy-cicle, Cloak and Dagger
+Diamondback, Ap-Sap, Spy-cicle, Dead Ringer
+L'Etranger, Sapper, Knife, Invis Watch
+L'Etranger, Sapper, Knife, Enthusiast's Timepiece
+L'Etranger, Sapper, Knife, Quackenbirdt
+L'Etranger, Sapper, Knife, Cloak and Dagger
+L'Etranger, Sapper, Knife, Dead Ringer
+L'Etranger, Sapper, Your Eternal Reward, Invis Watch
+L'Etranger, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+L'Etranger, Sapper, Your Eternal Reward, Quackenbirdt
+L'Etranger, Sapper, Your Eternal Reward, Cloak and Dagger
+L'Etranger, Sapper, Your Eternal Reward, Dead Ringer
+L'Etranger, Sapper, Big Earner, Invis Watch
+L'Etranger, Sapper, Big Earner, Enthusiast's Timepiece
+L'Etranger, Sapper, Big Earner, Quackenbirdt
+L'Etranger, Sapper, Big Earner, Cloak and Dagger
+L'Etranger, Sapper, Big Earner, Dead Ringer
+L'Etranger, Sapper, Conniver's Kunai, Invis Watch
+L'Etranger, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+L'Etranger, Sapper, Conniver's Kunai, Quackenbirdt
+L'Etranger, Sapper, Conniver's Kunai, Cloak and Dagger
+L'Etranger, Sapper, Conniver's Kunai, Dead Ringer
+L'Etranger, Sapper, Spy-cicle, Invis Watch
+L'Etranger, Sapper, Spy-cicle, Enthusiast's Timepiece
+L'Etranger, Sapper, Spy-cicle, Quackenbirdt
+L'Etranger, Sapper, Spy-cicle, Cloak and Dagger
+L'Etranger, Sapper, Spy-cicle, Dead Ringer
+L'Etranger, Red-Tape Recorder, Knife, Invis Watch
+L'Etranger, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+L'Etranger, Red-Tape Recorder, Knife, Quackenbirdt
+L'Etranger, Red-Tape Recorder, Knife, Cloak and Dagger
+L'Etranger, Red-Tape Recorder, Knife, Dead Ringer
+L'Etranger, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+L'Etranger, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+L'Etranger, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+L'Etranger, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+L'Etranger, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+L'Etranger, Red-Tape Recorder, Big Earner, Invis Watch
+L'Etranger, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+L'Etranger, Red-Tape Recorder, Big Earner, Quackenbirdt
+L'Etranger, Red-Tape Recorder, Big Earner, Cloak and Dagger
+L'Etranger, Red-Tape Recorder, Big Earner, Dead Ringer
+L'Etranger, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+L'Etranger, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+L'Etranger, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+L'Etranger, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+L'Etranger, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+L'Etranger, Red-Tape Recorder, Spy-cicle, Invis Watch
+L'Etranger, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+L'Etranger, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+L'Etranger, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+L'Etranger, Red-Tape Recorder, Spy-cicle, Dead Ringer
+L'Etranger, Snack Attack, Knife, Invis Watch
+L'Etranger, Snack Attack, Knife, Enthusiast's Timepiece
+L'Etranger, Snack Attack, Knife, Quackenbirdt
+L'Etranger, Snack Attack, Knife, Cloak and Dagger
+L'Etranger, Snack Attack, Knife, Dead Ringer
+L'Etranger, Snack Attack, Your Eternal Reward, Invis Watch
+L'Etranger, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+L'Etranger, Snack Attack, Your Eternal Reward, Quackenbirdt
+L'Etranger, Snack Attack, Your Eternal Reward, Cloak and Dagger
+L'Etranger, Snack Attack, Your Eternal Reward, Dead Ringer
+L'Etranger, Snack Attack, Big Earner, Invis Watch
+L'Etranger, Snack Attack, Big Earner, Enthusiast's Timepiece
+L'Etranger, Snack Attack, Big Earner, Quackenbirdt
+L'Etranger, Snack Attack, Big Earner, Cloak and Dagger
+L'Etranger, Snack Attack, Big Earner, Dead Ringer
+L'Etranger, Snack Attack, Conniver's Kunai, Invis Watch
+L'Etranger, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+L'Etranger, Snack Attack, Conniver's Kunai, Quackenbirdt
+L'Etranger, Snack Attack, Conniver's Kunai, Cloak and Dagger
+L'Etranger, Snack Attack, Conniver's Kunai, Dead Ringer
+L'Etranger, Snack Attack, Spy-cicle, Invis Watch
+L'Etranger, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+L'Etranger, Snack Attack, Spy-cicle, Quackenbirdt
+L'Etranger, Snack Attack, Spy-cicle, Cloak and Dagger
+L'Etranger, Snack Attack, Spy-cicle, Dead Ringer
+L'Etranger, Ap-Sap, Knife, Invis Watch
+L'Etranger, Ap-Sap, Knife, Enthusiast's Timepiece
+L'Etranger, Ap-Sap, Knife, Quackenbirdt
+L'Etranger, Ap-Sap, Knife, Cloak and Dagger
+L'Etranger, Ap-Sap, Knife, Dead Ringer
+L'Etranger, Ap-Sap, Your Eternal Reward, Invis Watch
+L'Etranger, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+L'Etranger, Ap-Sap, Your Eternal Reward, Quackenbirdt
+L'Etranger, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+L'Etranger, Ap-Sap, Your Eternal Reward, Dead Ringer
+L'Etranger, Ap-Sap, Big Earner, Invis Watch
+L'Etranger, Ap-Sap, Big Earner, Enthusiast's Timepiece
+L'Etranger, Ap-Sap, Big Earner, Quackenbirdt
+L'Etranger, Ap-Sap, Big Earner, Cloak and Dagger
+L'Etranger, Ap-Sap, Big Earner, Dead Ringer
+L'Etranger, Ap-Sap, Conniver's Kunai, Invis Watch
+L'Etranger, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+L'Etranger, Ap-Sap, Conniver's Kunai, Quackenbirdt
+L'Etranger, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+L'Etranger, Ap-Sap, Conniver's Kunai, Dead Ringer
+L'Etranger, Ap-Sap, Spy-cicle, Invis Watch
+L'Etranger, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+L'Etranger, Ap-Sap, Spy-cicle, Quackenbirdt
+L'Etranger, Ap-Sap, Spy-cicle, Cloak and Dagger
+L'Etranger, Ap-Sap, Spy-cicle, Dead Ringer
+Big Kill, Sapper, Knife, Invis Watch
+Big Kill, Sapper, Knife, Enthusiast's Timepiece
+Big Kill, Sapper, Knife, Quackenbirdt
+Big Kill, Sapper, Knife, Cloak and Dagger
+Big Kill, Sapper, Knife, Dead Ringer
+Big Kill, Sapper, Your Eternal Reward, Invis Watch
+Big Kill, Sapper, Your Eternal Reward, Enthusiast's Timepiece
+Big Kill, Sapper, Your Eternal Reward, Quackenbirdt
+Big Kill, Sapper, Your Eternal Reward, Cloak and Dagger
+Big Kill, Sapper, Your Eternal Reward, Dead Ringer
+Big Kill, Sapper, Big Earner, Invis Watch
+Big Kill, Sapper, Big Earner, Enthusiast's Timepiece
+Big Kill, Sapper, Big Earner, Quackenbirdt
+Big Kill, Sapper, Big Earner, Cloak and Dagger
+Big Kill, Sapper, Big Earner, Dead Ringer
+Big Kill, Sapper, Conniver's Kunai, Invis Watch
+Big Kill, Sapper, Conniver's Kunai, Enthusiast's Timepiece
+Big Kill, Sapper, Conniver's Kunai, Quackenbirdt
+Big Kill, Sapper, Conniver's Kunai, Cloak and Dagger
+Big Kill, Sapper, Conniver's Kunai, Dead Ringer
+Big Kill, Sapper, Spy-cicle, Invis Watch
+Big Kill, Sapper, Spy-cicle, Enthusiast's Timepiece
+Big Kill, Sapper, Spy-cicle, Quackenbirdt
+Big Kill, Sapper, Spy-cicle, Cloak and Dagger
+Big Kill, Sapper, Spy-cicle, Dead Ringer
+Big Kill, Red-Tape Recorder, Knife, Invis Watch
+Big Kill, Red-Tape Recorder, Knife, Enthusiast's Timepiece
+Big Kill, Red-Tape Recorder, Knife, Quackenbirdt
+Big Kill, Red-Tape Recorder, Knife, Cloak and Dagger
+Big Kill, Red-Tape Recorder, Knife, Dead Ringer
+Big Kill, Red-Tape Recorder, Your Eternal Reward, Invis Watch
+Big Kill, Red-Tape Recorder, Your Eternal Reward, Enthusiast's Timepiece
+Big Kill, Red-Tape Recorder, Your Eternal Reward, Quackenbirdt
+Big Kill, Red-Tape Recorder, Your Eternal Reward, Cloak and Dagger
+Big Kill, Red-Tape Recorder, Your Eternal Reward, Dead Ringer
+Big Kill, Red-Tape Recorder, Big Earner, Invis Watch
+Big Kill, Red-Tape Recorder, Big Earner, Enthusiast's Timepiece
+Big Kill, Red-Tape Recorder, Big Earner, Quackenbirdt
+Big Kill, Red-Tape Recorder, Big Earner, Cloak and Dagger
+Big Kill, Red-Tape Recorder, Big Earner, Dead Ringer
+Big Kill, Red-Tape Recorder, Conniver's Kunai, Invis Watch
+Big Kill, Red-Tape Recorder, Conniver's Kunai, Enthusiast's Timepiece
+Big Kill, Red-Tape Recorder, Conniver's Kunai, Quackenbirdt
+Big Kill, Red-Tape Recorder, Conniver's Kunai, Cloak and Dagger
+Big Kill, Red-Tape Recorder, Conniver's Kunai, Dead Ringer
+Big Kill, Red-Tape Recorder, Spy-cicle, Invis Watch
+Big Kill, Red-Tape Recorder, Spy-cicle, Enthusiast's Timepiece
+Big Kill, Red-Tape Recorder, Spy-cicle, Quackenbirdt
+Big Kill, Red-Tape Recorder, Spy-cicle, Cloak and Dagger
+Big Kill, Red-Tape Recorder, Spy-cicle, Dead Ringer
+Big Kill, Snack Attack, Knife, Invis Watch
+Big Kill, Snack Attack, Knife, Enthusiast's Timepiece
+Big Kill, Snack Attack, Knife, Quackenbirdt
+Big Kill, Snack Attack, Knife, Cloak and Dagger
+Big Kill, Snack Attack, Knife, Dead Ringer
+Big Kill, Snack Attack, Your Eternal Reward, Invis Watch
+Big Kill, Snack Attack, Your Eternal Reward, Enthusiast's Timepiece
+Big Kill, Snack Attack, Your Eternal Reward, Quackenbirdt
+Big Kill, Snack Attack, Your Eternal Reward, Cloak and Dagger
+Big Kill, Snack Attack, Your Eternal Reward, Dead Ringer
+Big Kill, Snack Attack, Big Earner, Invis Watch
+Big Kill, Snack Attack, Big Earner, Enthusiast's Timepiece
+Big Kill, Snack Attack, Big Earner, Quackenbirdt
+Big Kill, Snack Attack, Big Earner, Cloak and Dagger
+Big Kill, Snack Attack, Big Earner, Dead Ringer
+Big Kill, Snack Attack, Conniver's Kunai, Invis Watch
+Big Kill, Snack Attack, Conniver's Kunai, Enthusiast's Timepiece
+Big Kill, Snack Attack, Conniver's Kunai, Quackenbirdt
+Big Kill, Snack Attack, Conniver's Kunai, Cloak and Dagger
+Big Kill, Snack Attack, Conniver's Kunai, Dead Ringer
+Big Kill, Snack Attack, Spy-cicle, Invis Watch
+Big Kill, Snack Attack, Spy-cicle, Enthusiast's Timepiece
+Big Kill, Snack Attack, Spy-cicle, Quackenbirdt
+Big Kill, Snack Attack, Spy-cicle, Cloak and Dagger
+Big Kill, Snack Attack, Spy-cicle, Dead Ringer
+Big Kill, Ap-Sap, Knife, Invis Watch
+Big Kill, Ap-Sap, Knife, Enthusiast's Timepiece
+Big Kill, Ap-Sap, Knife, Quackenbirdt
+Big Kill, Ap-Sap, Knife, Cloak and Dagger
+Big Kill, Ap-Sap, Knife, Dead Ringer
+Big Kill, Ap-Sap, Your Eternal Reward, Invis Watch
+Big Kill, Ap-Sap, Your Eternal Reward, Enthusiast's Timepiece
+Big Kill, Ap-Sap, Your Eternal Reward, Quackenbirdt
+Big Kill, Ap-Sap, Your Eternal Reward, Cloak and Dagger
+Big Kill, Ap-Sap, Your Eternal Reward, Dead Ringer
+Big Kill, Ap-Sap, Big Earner, Invis Watch
+Big Kill, Ap-Sap, Big Earner, Enthusiast's Timepiece
+Big Kill, Ap-Sap, Big Earner, Quackenbirdt
+Big Kill, Ap-Sap, Big Earner, Cloak and Dagger
+Big Kill, Ap-Sap, Big Earner, Dead Ringer
+Big Kill, Ap-Sap, Conniver's Kunai, Invis Watch
+Big Kill, Ap-Sap, Conniver's Kunai, Enthusiast's Timepiece
+Big Kill, Ap-Sap, Conniver's Kunai, Quackenbirdt
+Big Kill, Ap-Sap, Conniver's Kunai, Cloak and Dagger
+Big Kill, Ap-Sap, Conniver's Kunai, Dead Ringer
+Big Kill, Ap-Sap, Spy-cicle, Invis Watch
+Big Kill, Ap-Sap, Spy-cicle, Enthusiast's Timepiece
+Big Kill, Ap-Sap, Spy-cicle, Quackenbirdt
+Big Kill, Ap-Sap, Spy-cicle, Cloak and Dagger
+Big Kill, Ap-Sap, Spy-cicle, Dead Ringer
