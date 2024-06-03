@@ -1,8 +1,6 @@
 # Team Fortress 2 Loadout Maker 5000
 A Python-based program used to decide your loadout for Team Fortress 2 (assuming you have EVERY item) and [Team Fortress 2 Classic](tf2classic.com/download)
 
-WARNING: Old releases will be DELETED permanently!! This means, for instance, from `1.0` to `1.1`, `1.0` will be deleted.
-
 ## TODO
 - [x] Options, such as "Disallow cosmetic reskins ((golden) frying pan, saxxy, etc)"
 - [ ] Add Knockout.tf custom weapons to the "Classic" game selection
