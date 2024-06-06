@@ -7,3 +7,6 @@ A Python-based program used to decide your loadout for Team Fortress 2 (assuming
 
 ## More
 [Gitlab link](https://gitlab.com/tf2-based/team-fortress-2-loadout-maker-5000/-/tree/main) for previous versions (1.2 **only**), this one is going to be the most up-to-date one now
+
+## Facts
+- Around 45% of the entirety of the source python code was deleted on version 1.2.1, and it still works
