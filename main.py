@@ -20,6 +20,7 @@ class UI(QMainWindow):
         self.setWindowIcon(QtGui.QIcon("icon.ico"))
         self.pushButton.clicked.connect(self.genld)
         self.pushButton_2.clicked.connect(self.copy)
+        self.game_cbox.currentTextChanged.connect(self.togglenocosre)
     def genld(self):
         # thanks podemb
         if (game := self.game_cbox.currentText()) == "Vanilla":
@@ -43,7 +44,6 @@ class UI(QMainWindow):
 
         if inargs("-debug"):
             print(chosen)
-        # no it doesnt need fixing, it needs removing (no more -saveongen argument, ya got the fuckin loadouts all.txt file smartypants.)
         
         self.label.setText(f"Game: {self.game_cbox.currentText()}\nMerc: {self.merc_cbox.currentText()}\nPrimary: {split_l[0]}\nSecondary: {split_l[1]}\nMelee: {split_l[2]}\nPDA: {split_l[3]}\n({len(chosen) - 2} more loadouts available)")
     def copy(self):
@@ -54,6 +54,11 @@ class UI(QMainWindow):
         msgbox.setIcon(QMessageBox.Icon.Information)
         msgbox.setWindowTitle("Thanks!")
         msgbox.exec_()
+    def togglenocosre(self, text):
+        if text == "Classic":
+            self.checkBox.setEnabled(False)
+        elif text == "Vanilla":
+            self.checkBox.setEnabled(True)
 
 app = QApplication(sys.argv)
 UIWindow = UI()
