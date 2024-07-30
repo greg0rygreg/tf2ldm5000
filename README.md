@@ -10,3 +10,6 @@ A Python-based program used to decide your loadout for Team Fortress 2 (assuming
 
 ## Facts
 - Around 45% of the entirety of the source python code was kept on version 1.2.1, and it still works
+
+## note
+i abandoned this fork it if you want
